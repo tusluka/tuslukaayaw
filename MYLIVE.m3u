@@ -1,0 +1,155 @@
+#EXTM3U#
+#EXTINF:0 tvg-logo="" group-title="PH CHANNEL",CNN PH
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",NBC News Now
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",Nat Geo WILD
+http://localdblagent.club:8080/1935/1935/1577?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",CBS
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",ABC
+http://ingrid.ltd:25461/frank1/frank/85155?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="V",FOX NEWS
+http://localdblagent.club:8080/1935/1935/1536?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",FOX NEWS
+http://ingrid.ltd:25461/frank1/frank/21783?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",HBO 2
+http://ingrid.ltd:25461/frank1/frank/42549?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",HBO 2
+http://ingrid.ltd:25461/frank1/frank/42045?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",HBO FAMILY
+http://ingrid.ltd:25461/frank1/frank/42391?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",FOX SPORTS NEWS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",HBO SIGNATURE
+http://ingrid.ltd:25461/frank1/frank/42392?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",HGTV
+http://localdblagent.club:8080/1935/1935/1553?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",HGTV
+http://ingrid.ltd:25461/frank1/frank/11573?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",TLC
+http://localdblagent.club:8080/1935/1935/1604?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",TLC
+http://ingrid.ltd:25461/frank1/frank/5892?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",ANIMAL PLANET
+http://localdblagent.club:8080/1935/1935/1488?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",ANIMAL PLANET
+http://ingrid.ltd:25461/frank1/frank/41576?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",ANIMAL PLANET
+http://ingrid.ltd:25461/frank1/frank/42505?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",DISCOVERY CHANNEL
+http://localdblagent.club:8080/1935/1935/1520?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",DISCOVERY CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64162?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",NAT GEO
+http://localdblagent.club:8080/1935/1935/1578?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",NAT GEO WILD
+http://ingrid.ltd:25461/frank1/frank/42046?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",AMC
+http://ingrid.ltd:25461/frank1/frank/11541?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",AMC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/562?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",ESPN
+http://ingrid.ltd:25461/frank1/frank/42444?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",ESPN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13604?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",SYFY
+http://localdblagent.club:8080/1935/1935/1599?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",BBC AMERICA
+http://localdblagent.club:8080/1935/1935/1493?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",BBC WORLD NEWS
+http://localdblagent.club:8080/1935/1935/1494?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",HALLMARK CHANNEL
+http://localdblagent.club:8080/1935/1935/1550?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",CNN
+http://localdblagent.club:8080/1935/1935/1513?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",HISTORY CHANNEL
+http://localdblagent.club:8080/1935/1935/1554?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",DISNEY  JUNIOR
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64130?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",DISNEY CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64131?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",DISNEY XD
+http://ingrid.ltd:25461/frank1/frank/5724?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",CINEMAX MOREMAX
+http://ingrid.ltd:25461/frank1/frank/19655?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",CINEMAX
+http://ingrid.ltd:25461/frank1/frank/42383?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",KTLA 5
+http://localdblagent.club:8080/1935/1935/1560?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",MSNBC
+http://localdblagent.club:8080/1935/1935/1570?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",OUTDOOR
+http://localdblagent.club:8080/1935/1935/1582?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",OUTDOOR
+http://localdblagent.club:8080/1935/1935/1583?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",OWN
+http://localdblagent.club:8080/1935/1935/1585?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",OXYGEN
+http://localdblagent.club:8080/1935/1935/1587?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",POP CHANNEL
+http://localdblagent.club:8080/1935/1935/1590?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",DIY
+http://ingrid.ltd:25461/frank1/frank/11567?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",DIY HD
+http://localdblagent.club:8080/1935/1935/1524?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",STARZ 2
+http://ingrid.ltd:25461/frank1/frank/22793?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",MOREMAX HD
+http://ingrid.ltd:25461/frank1/frank/22818?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",ESPN 2
+http://ingrid.ltd:25461/frank1/frank/11556?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",NBA TV
+http://ingrid.ltd:25461/frank1/frank/41386?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",LIFETIME MOVIES
+http://ingrid.ltd:25461/frank1/frank/5882?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",NAT GEO PEOPLE
+http://ingrid.ltd:25461/frank1/frank/42105?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",PARAMOUNT NETWORK
+http://ingrid.ltd:25461/frank1/frank/19662?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",SMITHSONIAN WEST CHANNEL 
+http://ingrid.ltd:25461/frank1/frank/22939?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",SMITHSONIAN EAST CHANNEL
+http://ingrid.ltd:25461/frank1/frank/42562?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",BRAVO
+http://ingrid.ltd:25461/frank1/frank/42011?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",E!
+http://ingrid.ltd:25461/frank1/frank/11531?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",DISCOVERY SCIENCE
+http://ingrid.ltd:25461/frank1/frank/41563?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",DOG TV
+http://ingrid.ltd:25461/frank1/frank/22944?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",CARTOON NETWORK
+http://ingrid.ltd:25461/frank1/frank/19654?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",NICK JR
+http://ingrid.ltd:25461/frank1/frank/41568?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",NICK TOONS
+http://ingrid.ltd:25461/frank1/frank/41569?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",NICKELODEON
+http://ingrid.ltd:25461/frank1/frank/42091?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",EPIX
+http://ingrid.ltd:25461/frank1/frank/5874?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",HBO ZONE
+http://ingrid.ltd:25461/frank1/frank/42394?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",SHOWTIME HD
+http://ingrid.ltd:25461/frank1/frank/8186?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1552?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1556?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1557?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1559?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1562?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1563?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1564?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1566?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1569?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1586?checkedby:hlscat.com
