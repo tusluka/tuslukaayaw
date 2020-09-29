@@ -1,0 +1,227 @@
+#EXTM3U#
+#EXTINF:0 tvg-logo="" group-title="NBC",NBC News Now
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="NBC",MSNBC
+http://localdblagent.club:8080/1935/1935/1570?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="NBC",CNBC WORLD
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64141?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="NBC",CNBC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64141?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="CBS",CBS
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="ABC",ABC
+http://localdblagent.club:8080/1935/1935/1484?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="FOX",FOX NEWS
+http://localdblagent.club:8080/1935/1935/1536?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="FOX",FOX NEWS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/252?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="FOX",FOX NEWS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64112?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="FOX",FOX SPORTS NEWS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="HBO",HBO 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14948?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="HBOL",HBO EAST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64104?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="HBO",HBO FAMILY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14948?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="HGTV",HGTV
+http://localdblagent.club:8080/1935/1935/1553?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="HGTV",HGTV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64101?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="TLC",TLC
+http://localdblagent.club:8080/1935/1935/1604?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="TLC",TLC
+http://localdblagent.club:8080/1935/1935/10935?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="ANIMAL PLANET",ANIMAL PLANET
+http://localdblagent.club:8080/1935/1935/1488?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="ANIMAL PLANET",ANIMAL PLANET
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64154?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="DISCOVERY CHANNEL",DISCOVERY CHANNEL
+http://localdblagent.club:8080/1935/1935/1520?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="DISCOVERY CHANNEL",DISCOVERY CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64162?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="DISCOVERY CHANNEL",DISCOVERY CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/255?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="DISCOVERY CHANNEL",DISCOVERY CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64132?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="DISCOVERY CHANNEL",DISCOVERY SCIENCE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64044?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="DISCOVERY CHANNEL",DISCOVERY INVESTIGATION
+http://localdblagent.club:8080/1935/1935/1557?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="DISCOVERY CHANNEL",DISCOVERY LIFE
+http://localdblagent.club:8080/1935/1935/1522?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="NAT GEO",NAT GEO
+http://localdblagent.club:8080/1935/1935/1578?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="NAT GEO",NAT GEO WILD
+http://localdblagent.club:8080/1935/1935/1577?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="NAT GEO",NAT GEO PACIFIC
+http://localdblagent.club:8080/1935/1935/1575?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="NAT GEO",NATIONAL GEOGRAPHIC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64082?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="AMC",AMC
+http://localdblagent.club:8080/1935/1935/1485?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="AMC",AMC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/562?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="AMC",AMC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64158?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="USA CHANNEL",ESPN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64126?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="ESPN",ESPN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64127?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="ESPN",ESPN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13604?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="SYFY",SYFY
+http://localdblagent.club:8080/1935/1935/1599?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="SYFY",SYFY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/245?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="SYFY",SYFY PACIFIC
+http://localdblagent.club:8080/1935/1935/1600?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="BBC",BBC AMERICA
+http://localdblagent.club:8080/1935/1935/1493?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="BBC",BBC WORLD NEWS
+http://localdblagent.club:8080/1935/1935/1494?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="HALLMARK",HALLMARK CHANNEL
+http://localdblagent.club:8080/1935/1935/1550?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="CNN",CNN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64132?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="CNN",CNN
+http://localdblagent.club:8080/1935/1935/1513?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="HISTORY CHANNEL",HISTORY CHANNEL
+http://localdblagent.club:8080/1935/1935/1554?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="DISNEY",DISNEY  JUNIOR
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64130?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="DISNEY",DISNEY CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64131?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="DISNEY",DISNEY XD
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64129?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="CINEMAX",CINEMAX
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64136?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="CINEMAX",CINEMAX EAST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64136?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="KTLA 5",KTLA 5
+http://localdblagent.club:8080/1935/1935/1560?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="OUTDOOR",OUTDOOR
+http://localdblagent.club:8080/1935/1935/1582?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="OUTDOOR",OUTDOOR
+http://localdblagent.club:8080/1935/1935/1583?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="OWN",OWN
+http://localdblagent.club:8080/1935/1935/1585?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="UOXYGEN",OXYGEN
+http://localdblagent.club:8080/1935/1935/1587?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="POP CHANNELL",POP CHANNEL
+http://localdblagent.club:8080/1935/1935/1590?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="DIY  CHANNEL",DIY NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13568?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="DIY  CHANNEL",DIY HD
+http://localdblagent.club:8080/1935/1935/1524?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="STARZ",STARZ
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64060?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title=STARZ",STARZ EAST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/329?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="STARZ",STARZ CLASSIC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56140?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="STARZ",STARZ COMEDY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/8844?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="ESPN",ESPN 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64126?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/375?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/369?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/336?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="LIFETIME",LIFETIME MOVIES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64093?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="LIFETIME",LIFETIME MOVIES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15491?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="LIFETIME",LIFETIME MOVIES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64092?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="TNT",TNT EAST
+http://localdblagent.club:8080/1935/1935/1606?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="TNT",TNT PACIFIC
+http://localdblagent.club:8080/1935/1935/1606?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="TNT",TNT
+http://localdblagent.club:8080/1935/1935/1607?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="PARAMOUNT",PARAMOUNT NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64068?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="PARAMOUNT",PARAMOUNT NETWORK
+http://localdblagent.club:8080/1935/1935/2620?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="SMITHSONIAN",SMITHSONIAN WEST CHANNEL 
+http://localdblagent.club:8080/1935/1935/1593?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="BRAVO",BRAVO
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64147?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="DOG TV",DOG TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/480?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="DOG TV",DOG TV
+http://localdblagent.club:8080/1935/1935/10882?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="CARTOON NETWORK",CARTOON NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64139?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="NICKELODEON",NICK JR
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64081?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="NICKELODEON",NICK TOONS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64079?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="EPIX",EPIX
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64121?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="EPIX",EPIX
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64122?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="EPIX",EPIX HITS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64119?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="SHOWTIME",SHOWTIME EAST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64043?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="SHOWTIME",SHOWTIME FAMILY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56136?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="SHOWTIME",SHOWTIME
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64041?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="E!",E!
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64128?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="C-SPAN",C-SPAN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64146?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="BET",BET
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64151?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="AWE",AWE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64157?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="AHC",AHC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64155?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="COMET",COMET
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64163?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="MTV",MTV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64165?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="SHOWCASE",SHOWCASE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64171?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="CW",CW
+http://localdblagent.club:8080/1935/1935/13062?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="CW",CW
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15345?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="CW",CW LA
+http://ingrid.ltd:25461/frank1/frank/86190?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="MOVIE CHANNEL",MOVIE CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64169?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="MOVIE CHANNEL",MOVIE CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64104?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="MOVIE CHANNEL",MOVIE CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13606?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="MOVIE CHANNEL",MOVIE CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13607?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="MOVIE CHANNEL",ID
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13608?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="MOVIE CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1552?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="MOVIE CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1556?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="MOVIE CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1557?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="MOVIE CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1559?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="MOVIE CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1562?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="MOVIE CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1563?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="MOVIE CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1564?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="MOVIE CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1566?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="MOVIE CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1569?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="" group-title="MOVIE CHANNEL",BACK UP
+http://localdblagent.club:8080/1935/1935/1586?checkedby:hlscat.com
