@@ -1,10 +1,28 @@
 ﻿#EXTM3U#
+#EXTINF:-1 tvg-logo="" group-title="LATEST MOVIES",
+#EXTINF:-1 tvg-logo="" group-title="VOD1 2020",
+#EXTINF:-1 tvg-logo="" group-title="VOD2 2010-2019",
+#EXTINF:-1 tvg-logo="" group-title="VOD3 2000-2009",
+#EXTINF:-1 tvg-logo="" group-title="VOD4 1990-1999",
+#########################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/doKCgVvAmsE3SOwZrWa00KznI6Z.jpg" group-title="VOD1 2020",The Trip to Greece (2020)
+http://dl.gemovies.ir/film/The%20Trip%20to%20Greece%202020/ORG/The.Trip.To.Greece.2020.720p.WEBRip.GalaxyRG.Gemovies.ir.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1HpAwszXLsD8GeypDzK0me7fPFA.jpg" group-title="VOD2 2010-2019",Prospect (2018)
+http://dl.gemovies.ir/film/Prospect%202018/ORG/Prospect.2018.720p.BluRay.MkvCage.Gemovies.ir.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nxeCRcyL4kbK2eEOsLA0ap2p0L0.jpg" group-title="LATEST MOVIES",The New Mutants (2020)
+http://dl.gemovies.ir/film/The%20New%20Mutants%202020/ORG/The.New.Mutants.2020.INTERNAL.720p.BluRay.x265.PSA.Gemovies.ir.mkv
 ##########LATEST MOVIES##################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oLQlUUSlI669r1bgQ7AlnjcrrvC.jpg" group-title="LATEST MOVIES",Possessor Uncut (2020)
+http://dl10.dlfars.pw/b7/film/Possessor.2020.720p.WEB-DL.YTS.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qkV2VgjfaETt25fV6TdNXkw8UZw.jpg" group-title="LATEST MOVIES",The Trial of the Chicago 7 (2020)
+http://dl.gemovies.ir/film/The%20Trial%20of%20the%20Chicago%207%202020/ORG/The.Trial.of.the.Chicago.7.2020.720p.WEB-DL.GalaxyRG.Gemovies.ir.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AaiLwHK28piiknC9B1lpaaxbQ53.jpg" group-title="LATEST MOVIES",Vampires vs. the Bronx (2020)
+http://dl.gemovies.ir/film/Vampires%20vs.%20the%20Bronx%202020/ORG/Vampires.Vs.The.Bronx.2020.720p.WEB-DL.YTS.Gemovies.ir.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/exMHPC9hISOilingT8Q1SKMJFV5.jpg" group-title="LATEST MOVIES",Come Play (2020)
 http://dl10.dlfars.pw/b7/film/Come.Play.2020.720p.HDRip.GalaxyRG.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/82Se2lSnqa05djLz5q3EJ2V9KQ2.jpg" group-title="LATEST MOVIES",The Call (2020)
 http://dl10.dlfars.pw/b6/film7/The.Call.2020.720p.WEB-DL.YTS.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s6XxJEe4ovVTMgmGmKeO87OFANU.jpg" group-title="LATEST MOVIES", His House (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s6XxJEe4ovVTMgmGmKeO87OFANU.jpg" group-title="LATEST MOVIES",His House (2020)
 http://dl10.dlfars.pw/b6/film7/His.House.2020.720p.WEB-DL.YTS.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s6V6QPKNV8NB05kG1IkACxvbI4I.jpg" group-title="LATEST MOVIES",Spell (2020)
 http://dl10.dlfars.pw/b6/film6/Spell.2020.720p.WEB-DL.YTS.mkv
@@ -897,9 +915,7 @@ https://lh3.googleusercontent.com/HQOrqWHushb6Lo-uvl11BjPubAH_o5d5JYfo1TXBAww2Bx
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/727445-the-notebook-AQB0n.jpg" group-title="VOD3 2000-2009",The Notebook-DRAMA		
 https://lh3.googleusercontent.com/rncmVs1wOHIn5iOJlv9IlUidIvhduyQe_N7ht6UCRB2Kvxo7s_CcxuAsCIrJCZEh-Qf5pDTE2R5bddBAOafa0u79gZCV7SNpAxw01krcrGD7Io5kI7rM0DFbD1FdhApnJ_LUoa0QFg=dv		
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/692921-the-day-after-tomorrow-khEaS.jpg" group-title="VOD3 2000-2009",The Day After Tomorrow		
-https://lh3.googleusercontent.com/irOhYaQyv_Ph35C0ZKifkLQLPgeVT4G_p_wmjf-vlYps1IgeGBtd0Iw4c7uLl2bzsUzaC1w7ULV2KjlEywI78C7_OVzC-0ciYSirsIujnV0OV98IngslliyuOIXgKBP9Acp1VReCQiY=dv		
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3ov2mobntplitvrceKUrCiMpj2l.jpg" group-title="VOD3 2000-2009",Resident Evil: Afterlife (2010)	
-https://lh3.googleusercontent.com/0N2v31n93ywjUvYdPp-V_Q5uJRvSy9RbF_gkHXNmSVcLxDWLaxD0S5sM4THiXrqIKVTq3vN5YvwejLUmIMukZbmr2AW17Nu845hB9F8vokO2rlnLI54k75j9ToSsxahK5R-v7QBkkhg=dv		
+https://lh3.googleusercontent.com/irOhYaQyv_Ph35C0ZKifkLQLPgeVT4G_p_wmjf-vlYps1IgeGBtd0Iw4c7uLl2bzsUzaC1w7ULV2KjlEywI78C7_OVzC-0ciYSirsIujnV0OV98IngslliyuOIXgKBP9Acp1VReCQiY=dv				
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iNZdSIfhSCMtRILDNyhLn8UKeSG.jpg" group-title="VOD3 2000-2009",13 Going on 30 (2004)		
 https://dl.injaupload.com/film/Movie/2004/13%20Going%20on%2030%202004/13.Going.on.30.2004.1080p.BrRip.YIFY.mp4		
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/89yaPwgX4YvHzDuykMKyItRgz5l.jpg" group-title="VOD3 2000-2009",Alexander (2004)		
