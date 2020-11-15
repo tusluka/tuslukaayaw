@@ -1,5 +1,26 @@
 ﻿#EXTM3U#
 ##########COLLECTION##########################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg" group-title="TWILIGHT MOVIES",Twilight (2008)
+http://dl10.dlb3d.ir/M/Tw/Tw.2008/Tw.2008.720p.x265.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/j5jM5pq78ObAXX1WhTsb115EkLl.jpg" group-title="TWILIGHT MOVIES"The Twilight Saga: New Moon (2009)
+http://dl10.dlb3d.ir/M/Tw/The.Tw.Saga.New.Moon.2009/The.Tw.Saga.New.Moon.2009.720p.x265.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dSSzv6JrlwS48pBeTNSswLJXOYF.jpg" group-title="TWILIGHT MOVIES"The Twilight Saga: Breaking Dawn - Part 1 (2011)
+http://dl10.dlb3d.ir/M/Tw/The.Tw.Saga.Breaking.Dawn.Part.1.2011/The.Tw.Saga.Breaking.Dawn.Part.1.2011.720p.BluRay.x265.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jHE7WUf3FDod8vw3O3twh0JVZun.jpg" group-title="TWILIGHT MOVIES"The Twilight Saga: Breaking Dawn - Part 2 (2012)
+http://dl10.dlb3d.ir/M/Tw/The.Tw.Saga.Breaking.Dawn.Part.2.2012/The.Tw.Saga.Breaking.Dawn.Part.2.2012.720p.Farsi.Dubbed.mkv
+##########
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eps9siiZKt0WgY51mHuFvtScNzR.jpg" group-title="RESIDENT EVIL COLLECTION",Resident Evil (2002)
+http://dl10.dlfars.pw/z1/film2/Resident.Evil.2002.720p.BluRay.MkvCage.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yzNQSLlZb7NAkA4C5uADfNDJ7hm.jpg" group-title="RESIDENT EVIL COLLECTION",Resident Evil: Apocalypse (2004)
+http://dl10.dlfars.pw/z1/film2/Resident.Evil.Apocalypse.2004.720p.BluRay.MkvCage.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6S1gpO1akWvuLWgw7dpNYMzg3Rs.jpg" group-title="RESIDENT EVIL COLLECTION",Resident Evil: Extinction (2007)
+http://dl10.dlfars.pw/z1/film2/Resident.Evil.Extinction.2007.720p.BluRay.MkvCage.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3ov2mobntplitvrceKUrCiMpj2l.jpg" group-title="RESIDENT EVIL COLLECTION",Resident Evil: Afterlife (2010)	
+https://lh3.googleusercontent.com/0N2v31n93ywjUvYdPp-V_Q5uJRvSy9RbF_gkHXNmSVcLxDWLaxD0S5sM4THiXrqIKVTq3vN5YvwejLUmIMukZbmr2AW17Nu845hB9F8vokO2rlnLI54k75j9ToSsxahK5R-v7QBkkhg=dv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ohdUDWVlcbuWphaLu6wS91xdJ73.jpg" group-title="RESIDENT EVIL COLLECTION",Resident Evil: Retribution (2012)
+http://dl.dlfars.pw/b4/film6/Resident%20Evil-Retribution%202012%20BluRay%20720p.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gytKL6fimeiTIjd9kl5bfjY2k4C.jpg" group-title="RESIDENT EVIL COLLECTION",Resident Evil: The Final Chapter (2016)
+http://dl10.dlfars.pw/z1/film2/Resident.Evil.The.Final.Chapter.2016.720p.BluRay.MkvCage.mkv
 ##########
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cpeFXiQJaLDCODaRIq3Dnn93o8.jpg" group-title="CLOVERFIELD COLLECTION",Cloverfield (2008)
 http://dl10.dlfars.pw/b6/film7/Cloverfield.2008.720p.mkv

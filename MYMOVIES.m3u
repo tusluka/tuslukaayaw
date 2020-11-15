@@ -6,6 +6,10 @@
 #EXTINF:-1 tvg-logo="" group-title="VOD4 1990-1999",
 #EXTINF:-1 tvg-logo="" group-title="VOD5 RELIGIOUS MOVIES",
 ##########LATEST MOVIES##################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mD4p5KTXMU2vm4TOG0RWvuoBQgO.jpg" group-title="LATEST MOVIES",Jingle Jangle: A Christmas Journey (2020)
+http://dl10.dlfars.pw/b7/film4/Jingle.Jangle.A.Christmas.Journey.2020.720p.WEB-DL.YTS.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v9w9cl5P3XFhD3u3Aq1xO1EUPBS.jpg" group-title="LATEST MOVIES",Greenland (2020)
+http://dl.gemovies.ir/film/Greenland%202020/ORG/Greenland.2020.720p.WEB-DL.GalaxyRG.Gemovies.ir.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nxeCRcyL4kbK2eEOsLA0ap2p0L0.jpg" group-title="LATEST MOVIES",The New Mutants (2020)
 http://dl.gemovies.ir/film/The%20New%20Mutants%202020/ORG/The.New.Mutants.2020.INTERNAL.720p.BluRay.x265.PSA.Gemovies.ir.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oLQlUUSlI669r1bgQ7AlnjcrrvC.jpg" group-title="LATEST MOVIES",Possessor Uncut (2020)
@@ -30,6 +34,40 @@ http://dl10.dlfars.pw/b6/film6/Holidate.2020.720p.WEB-DL.YTS.mkv
 #
 #
 #########################################################
+#EXTINF:-1 tvg-logo="http://s8.bitdl.ir/Movie/Imperium.2016/Imperium.2016.720p.ShAaNiG_Bia2HD.mkv" group-title="VOD2 2010-2019",Imperium (2016)
+https://image.tmdb.org/t/p/original/7Ux4vzgFY6dPx4QkqjejgokoG02.jpg
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/34T8kBh9NghnJuLf3HjykT5noAL.jpg" group-title="VOD2 2010-2019",Genius (2016)
+http://s8.bitdl.ir/Movie/Genius.2016/Genius.2016.720p.Ganool_Bia2HD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iL3Bx4YOqYdAMlx4czLyygA09MC.jpg" group-title="VOD2 2010-2019",The Whole Truth (2016)
+http://s8.bitdl.ir/Movie/The.Whole.Truth.2016/The.Whole.Truth.2016.720p.ShAaNiG.Bia2HD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rICumoFSRzn4tJeaLvuI0HeE53p.jpg" group-title="VOD2 2010-2019",The Conjuring (2013)
+http://s8.bitdl.ir/Movie/The.Conjuring/The.Conjuring.2013.BluRay.720p_Bia2HD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/p70dq1YxabemdZDm5K6Q8G10wSn.jpg" group-title="VOD2 2010-2019",The Great Wall (2016)
+http://s8.bitdl.ir/Movie/The.Great.Wall.2016/The.Great.Wall.2016.720p.ShAaNiG.Bia2HD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9WkUSY33MDPGmz0vtzbsfaxTHVa.jpg" group-title="VOD2 2010-2019",Sleepless (2017)
+http://s8.bitdl.ir/Movie/Sleepless.2017/Sleepless.2017.720p.WEB-DL.ShAaNiG.Bia2HD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x5T0cQDYws0xRBVG4Q3wpcrcmax.jpg" group-title="VOD5 RELIGIOUS MOVIES",Silence (2016)
+http://s8.bitdl.ir/Movie/Silence.2016/Silence.2016.720p.NBY.Bia2HD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tJhLQMcEzwDmxqQxr1n81a3sfd8.jpg" group-title="VOD2 2010-2019",Queen of Katwe (2016)
+http://s8.bitdl.ir/Movie/Queen.of.Katwe.2016/Queen.of.Katwe.2016.720p.ShAaNiG.Bia2HD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9uxCH78Cn65LdR4jn5rDlMUpHTI.jpg" group-title="VOD2 2010-2019",Ouija: Origin of Evil (2016)
+http://s8.bitdl.ir/Movie/Ouija.Origin.of.Evil.2016/Ouija.Origin.of.Evil.2016.720p.ShAaNiG.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/A4uB43sOjgfDzRh0q7DZKpH91Bj.jpg" group-title="VOD2 2010-2019",Legends of the Hidden Temple (2016)
+http://s8.bitdl.ir/Movie/Legends.of.the.Hidden.Temple.2016/legends.of.the.hidden.temple.2016.720p.hdtv.x265.Bia2HD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg" group-title="Cowboys & Aliens (2011)",Cowboys & Aliens (2011)
+http://dl10.dlb3d.ir/M/Cowboys.and.Aliens.2011/Cowboys.and.Aliens.2011.720p.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lxHzCauXFsax2g7DERoV349gKfG.jpg" group-title="VOD2 2010-2019",Contagion (2011)
+http://dl10.dlb3d.ir/M/Contagion.2011/Contagion.2011.720p.x265.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fXBCWyD0GCqCi81JeqJVsllBj3h.jpg" group-title="VOD2 2010-2019",Eli (2019)
+http://dl10.dlb3d.ir/M/Eli.2019/Eli.2019.720p.WEB-DL.Ganool.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rsUs58bDqpJJxZSOebZOMN9gzw2.jpg" group-title="VOD2 2010-2019",Harriet (2019)
+http://dl10.dlb3d.ir/M/Harriet.2019/Harriet.2019.720p.BluRay.x265.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg" group-title="VOD2 2010-2019",Parasite (2019)
+http://dl10.dlb3d.ir/M/Parasite.2019/Parasite.2019.720p.BluRay.x265.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cmC7bJZ5sCzx9ZsrlXOrYJfYtLc.jpg" group-title="VOD2 2010-2019",The Courier (2019)
+http://dl10.dlb3d.ir/M/The.Courier.2019/The.Courier.2019.720p.BluRay.x264.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e2Z466e9402RFP6wxRMfXYYiJHA.jpg" group-title="VOD2 2010-2019",Traffik (2018)
+http://dl11.dlb3d.ir/M/Traffik.2018/Traffik.2018.720p.x265.PSA.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg" group-title="VOD2 2010-2019",The Hitman's Bodyguard (2017)
 http://dl5.dlb3d.ir/Movies/The.Hitmans.Bodyguard.2017/The.Hitmans.Bodyguard.2017.720p.x265.MkvCage-%5BBi-3-Seda.Ir%5D.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cjAGYsTPmmhZOwzrgon0Drpu43K.jpg" group-title="VOD2 2010-2019",The Huntsman: Winter's War (2016)
@@ -114,7 +152,7 @@ http://dl.gemovies.ir/film/Irresistible%202020/ORG/Irresistible.2020.720p.BluRay
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/betExZlgK0l7CZ9CsCBVcwO1OjL.jpg" group-title="VOD1 2020",The Witches (2020)
 http://dl.gemovies.ir/film/The%20Witches%202020/ORG/The.Witches.2020.720p.WEB-DL.GalaxyRG.Gemovie.ir.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wfiIfEA0XeeNGuNzpWBxmnkuzWh.jpg" group-title="VOD1 2020",Unhinged (2020)
-http://dl.gemovies.ir/film/Unhinged%202020/ORG/Unhinged.2020.720p.WEB-DL.GalaxyRG.Gemovies.ir.mkv
+http://dl.gemovies.ir/film/Unhinged%202020/ORG/Unhinged.2020.720p.BluRay.Pahe.Gemovies.ir.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bkld8Me0WiLWipLORRNfF1yIPHu.jpg" group-title="VOD1 2020",A Babysitter's Guide to Monster Hunting (2020)
 http://dl10.dlfars.pw/b6/film2/A.Babysitters.Guide.to.Monster.Hunting.2020.720p.WEB-DL.GalaxyRG.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/j5KYfr0Bgv1UYP8to8xL8Af4zjQ.jpg" group-title="VOD1 2020",Clouds (2020)
@@ -223,49 +261,49 @@ http://r2.dldrm.ir/Movie/2020/Dont.Let.Them.In.2020.WEB-DL.720p.DreamMovie.mkv
 https://lh3.googleusercontent.com/cA4koCP7ZHj_U_e_pumNuOSdG72FdOe3XFaRk28l_dCUP-x45dTUSdO4ihgfi8oht4cQ7wcwGM5WQ7QdZnKGmOPCSfWy0lFX6va90C9RZuGk_s05HOfIuf2c02f7f-SpLsV1lG3K_A=dv
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1355588-the-babysitter-killer-queen-Pi_IM.jpg" group-title="VOD1 2020",The Babysitter Killer Queen (2020)
 http://icdn.berlincloud.pw/storage/29/The.Babysitter.Killer.Queen.2020.1080p.NF.WEB-DL.CMRG.mkv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Survive_the_Night_poster.jpg/220px-Survive_the_Night_poster.jpg" group-title="VOD1 2020",Survive The Night
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Survive_the_Night_poster.jpg/220px-Survive_the_Night_poster.jpg" group-title="VOD1 2020",Survive The Night (2020)
 https://lh3.googleusercontent.com/oU802Njg8-sTcmwW3pUHgcyQT6edmXOpJJ5kJQXY_7h4eVGuL8iaQ0aQOrCQc0FxcxzKJoC_JGo0GpAKquBji1Xv5SjukwDKh7_YdQh7Bmvl49fvlTMc9kmkpXQO_hJDQoOF6nZ8Vg=dv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1168373-underwater-Ctz9I.jpg" group-title="VOD1 2020",Underwater
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yJ3whnqle4kTOwNSJ8VpQ8Nc4QM.jpg" group-title="VOD1 2020",Underwater (2020)
 https://lh3.googleusercontent.com/sxYVn2YJLeuAvfcb2yUY7ae1g43-L1JJ5-U1udDf5m8FDbe0SdtwBWSzMDiSOhjsw6GHo4R-MaTLdDcqDcHQm_qWEYbmmM-EaASK4zyrrSn9Al9rFN73Ii8Hf9MZArKDtoyM5J0a3Q=dv
-#EXTINF:-1 tvg-ID="" tvg-name="Emma." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sm8iVzA7kRp0d4BSIsgXjsSBMKV.jpg" group-title="VOD1 2020",Emma.
+#EXTINF:-1 tvg-ID="" tvg-name="Emma." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sm8iVzA7kRp0d4BSIsgXjsSBMKV.jpg" group-title="VOD1 2020",Emma. (2020)
 https://lh3.googleusercontent.com/PyobxGtWoWe-fA3jgN-cFRaBRphxDt55068HtoE4XrImqNw9j1bt9R33jPQdllEcSc9p7Fwwb9Kraj7VgnxTf1jF4vOObbd9Ip0-kZPzIIXqlEZF9qJEBJ7unfBHPTU9MXQoARRrTQ=dv
-#EXTINF:-1 tvg-ID="" tvg-name="Sonic The Hedgehog" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg" group-title="VOD1 2020",Sonic The Hedgehog
+#EXTINF:-1 tvg-ID="" tvg-name="Sonic The Hedgehog" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg" group-title="VOD1 2020",Sonic The Hedgehog (2020)
 https://lh3.googleusercontent.com/mWwyHp30BY0YBVpVvyIJHY1Pd9DvF-uSqNMJAQksnS7OkVRFGWXPRUIgdQbgyZjG4rvBDzzTSkxWyvFS_gxb6fh9RX4mPAhgIyHabi2WYgem06_w60LxP-Yx2qAbo64jqSl5Q0OLuQ=dv
-#EXTINF:-1 tvg-ID="" tvg-name="Spenser Confidential" tvg-logo="https://i1.wp.com/src1.uno/v1/1338174-spenser-confidential-6ImFu.jpg" group-title="VOD1 2020",Spenser Confidential
+#EXTINF:-1 tvg-ID="" tvg-name="Spenser Confidential" tvg-logo="https://i1.wp.com/src1.uno/v1/1338174-spenser-confidential-6ImFu.jpg" group-title="VOD1 2020",Spenser Confidential (2020)
 https://lh3.googleusercontent.com/3cnUknveOzkhr6QvAuRW-nAGatWnl2rn5P1bYC4E9JVUBhnQkh-JsTZBPWzXcHYX5uTHfwnCvnIicGOYpzP8JBfM1H1yP2ifCQRpWZBFk6nnbLpCJzjfhTTWiTWI2A94B7b3h6hDMA=dv
-#EXTINF:-1 tvg-ID="" tvg-name="The Hunt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/The_Hunt_2020_poster.png/220px-The_Hunt_2020_poster.png" group-title="VOD1 2020",The Hunt
+#EXTINF:-1 tvg-ID="" tvg-name="The Hunt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/The_Hunt_2020_poster.png/220px-The_Hunt_2020_poster.png" group-title="VOD1 2020",The Hunt (2020)
 https://lh3.googleusercontent.com/b281ex2g-ny_FnkrQGzSsmXlNE06FKdeRgWc2Kgqd7iSatzipQa8Qdu7oXqP20r3dcvtBKrzZOKjTlZhMqGZ3OIxxhRGfmGHzGE3qf5nmQDNculqgOoPggiNPM1ltr9R2DW3lH-bjQ=dv
-#EXTINF:-1 tvg-ID="" tvg-name="The Rhythm Section" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/The_Rhythm_Section_poster.jpg/220px-The_Rhythm_Section_poster.jpg" group-title="VOD1 2020",The Rhythm Section
+#EXTINF:-1 tvg-ID="" tvg-name="The Rhythm Section" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/The_Rhythm_Section_poster.jpg/220px-The_Rhythm_Section_poster.jpg" group-title="VOD1 2020",The Rhythm Section (2020)
 https://lh3.googleusercontent.com/EEtIPHeISVGT3SGhFVvlPpHtp-tqTehZ8ToMv5dZxhepcb9NQ3CKWJRaTQp2w_UoaL08JB7Zi6RMiPzX7rpcvh406dAY2T-8mMOkssy5WHQzMYhamMaDWd-0WSrl1mVdqk2EN6h-zw=dv
-#EXTINF:-1 tvg-ID="EXTRACTION" tvg-name="EXTRACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Extraction_%282020_film%29.png" group-title="VOD1 2020",Extraction
+#EXTINF:-1 tvg-ID="EXTRACTION" tvg-name="EXTRACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Extraction_%282020_film%29.png" group-title="VOD1 2020",Extraction (2020)
 https://lh3.googleusercontent.com/2Cz5Sk6GYaKp1ztcRgG8LLTRnrL5m9Dkh5OKg2_1l8fYsyBuk3T-KEbJ1fDa7sic4bYeJDSTRWWfFTL_Mu9cM85-6G-I-aH6c8e_9BVq49fakYCUjugeLgOJpWjUwt2yHYt5_Zws7Q=dv
-#EXTINF:-1 tvg-ID="" tvg-name="DOLITTLE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Dolittle_%282020_film_poster%29.png" group-title="VOD1 2020",Dolittle
+#EXTINF:-1 tvg-ID="" tvg-name="DOLITTLE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Dolittle_%282020_film_poster%29.png" group-title="VOD1 2020",Dolittle (2020)
 https://lh3.googleusercontent.com/9vkZ_0dvzI4ksJIjfrwjSMgrudtLpq_qwaEHh7zlMVvS8MBNTlKKyH3fUWVyoEi-2lLyMf2rdz9GP_JHKXiSl2vOdvwGjaSo56Cj1AGkSVEpRGi-NFTgXTPevXarISnqfS8rLSwQf30=dv
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/710H0wZePbL._AC_SL1334_.jpg" group-title="VOD1 2020",Birds Of Prey
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/710H0wZePbL._AC_SL1334_.jpg" group-title="VOD1 2020",Birds Of Prey (2020)
 https://lh3.googleusercontent.com/kyqOm40eClTem4dCNP2w2rRzB8vz3YkP7BsdBcNjvGNVBpY4luqXiyYA9VfHsj56JYpg48Mpi-Y3_ujb7C8saWDTVifxK7Q9WiIurZd0994XwFZ1KMJ7sTkFAU6lu2_j3XFf-WObBg=dv
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA5YjA2YjUtMGRlNi00ZTU4LThhZmMtNDc0OTg4ZWExZjI3XkEyXkFqcGdeQXVyNjUyNjI3NzU@._V1_.jpg" group-title="VOD1 2020",Bloodshot
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA5YjA2YjUtMGRlNi00ZTU4LThhZmMtNDc0OTg4ZWExZjI3XkEyXkFqcGdeQXVyNjUyNjI3NzU@._V1_.jpg" group-title="VOD1 2020",Bloodshot (2020)
 https://lh3.googleusercontent.com/w0bSY5L-TMeX8hFnaiNW44hM50HxlKdGNfPu7HtX3ihysFZa2idAhI_4Q4ECkm6Ws2JFsHTGykuU67h6oGu1b47JcHvUipqT4x_tM4gqYX49Z5qhBnVqSSXXbE1U3oMxNRfC4vHfYw=dv
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/The_Way_Back_poster.jpeg/220px-The_Way_Back_poster.jpeg" group-title="VOD1 2020",The Way Back
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/The_Way_Back_poster.jpeg/220px-The_Way_Back_poster.jpeg" group-title="VOD1 2020",The Way Back (2020)
 https://lh3.googleusercontent.com/5UJZ8XakVtKCfU7jGv-_wNitPxn6oEb-3gYsF8xIoDoNjqbcCDsw99ZP6OVPw1wwCaajEETweNUp4ip1LA-7S2-KNAd-bBlnsiKdc2fma0V5DxrnNmWI4seRjkGcAAflPeQrO5ws0w=dv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1342639-the-king-of-staten-island-CPmL0.jpg" group-title="VOD1 2020",The King of Staten Island
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1342639-the-king-of-staten-island-CPmL0.jpg" group-title="VOD1 2020",The King of Staten Island (2020)
 https://lh3.googleusercontent.com/xt_GsK-PCI9wkn6lNKvL00psGpoPIikLTzPynsQ6IdXbImSobwozLjup2pxvkBjexfk9FU5ia62jWeXVneJT9vWUHVY5F25qsks_bEkB4P94ypsE0RtDNL9XUmC3asp2t7ZYc51xyw=dv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1343558-da-5-bloods-abCxs.jpg" group-title="VOD1 2020",Da 5 Bloods
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1343558-da-5-bloods-abCxs.jpg" group-title="VOD1 2020",Da 5 Bloods (2020)
 https://lh3.googleusercontent.com/h3Zl8pDiN27mDVWjDeDtwrgnAm_RM7v2XRYvXY-9TF8zMuCwIq9yNP30uN-Rqg0-le42WbW5tKWt9jLdrzKHbArZTkzglYPXTlX3HtMtJC_QR2_LE_cKAQ41jCwBTaXlIAmVZMviqg=dv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1339652-the-high-note--HGVe.jpg" group-title="VOD1 2020",The High Note
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1339652-the-high-note--HGVe.jpg" group-title="VOD1 2020",The High Note (2020)
 https://lh3.googleusercontent.com/rSTKyuNDAVc3cq2kqWuGonjOZrOoGzWJwmU5Q9DSSLNVNYw02KamG5HQBKJaclHAZfiqklnWQALPRvvscS6Eoz0TEENbhGNk1aYTdZblW4KG6OZCe-wFZqkZa4f97M0ouObqYi35RQ=dv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1338795-the-lovebirds-SiYrF.jpg" group-title="VOD1 2020",The Lovebirds
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1338795-the-lovebirds-SiYrF.jpg" group-title="VOD1 2020",The Lovebirds (2020)
 https://lh3.googleusercontent.com/lyB0CLMKkvcFR00QEa9hPG-TaD3WxskXCj6QWbekLZnQrEIsQiwnlxniWCaxwhxtQvPhOov0_UE-eQpcCwhgoiSj3g5k-M79ekTJG7zbk5DQW2HvcgobD9gn-FasFYhZ_XkvBiW6gA=dv
-#EXTINF:-1 tvg-ID="" tvg-name="I’m Thinking Of Ending Things" tvg-logo="https://i1.wp.com/src1.uno/v1/1348687-im-thinking-of-ending-things-TiiI4.jpg" group-title="VOD1 2020",I’m Thinking Of Ending Things
+#EXTINF:-1 tvg-ID="" tvg-name="I’m Thinking Of Ending Things" tvg-logo="https://i1.wp.com/src1.uno/v1/1348687-im-thinking-of-ending-things-TiiI4.jpg" group-title="VOD1 2020",I’m Thinking Of Ending Things (2020)
 http://icdn.berlincloud.pw/storage/29/Im.Thinking.of.Ending.Things.2020.1080p.WEB-DL.RARBG.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The Invisible Man" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/The_Invisible_Man_%282020_film%29_-_release_poster.jpg/220px-The_Invisible_Man_%282020_film%29_-_release_poster.jpg" group-title="VOD1 2020",The Invisible Man
+#EXTINF:-1 tvg-ID="" tvg-name="The Invisible Man" tvg-logo="https://image.tmdb.org/t/p/original/mpeeKHW29pfsy1l1jLxipap4el3.jpg" group-title="VOD1 2020",The Invisible Man (2020)
 https://lh3.googleusercontent.com/DgywLK83HsF9w0L5AYW2sN8oRKTnGJr9hDGwWkYonnEVros5F3M7CsBCSFh6VFLsW25ZdWKWCxfpPRuE89AkcVIZzxRtcwD3RDdU1OgWQINprrH9r1RmarHZzpdsAuD0FrcnLC7Jqw=dv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9t1AxbzyGQENDunK1GT8OS4aJl.jpg" group-title="VOD1 2020",Archive
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9t1AxbzyGQENDunK1GT8OS4aJl.jpg" group-title="VOD1 2020",Archive (2020)
 http://5f8u2z8mn5qjqvfdxs59z5g6aw8djt.w0kriscaz3hcff0sb26887827rxg7ib99m7xk9x9ikr3qil7ax59bjh1ogl.xyz/Film/New-Server/2020/Archive.2020.1080p.WEB-DL.RARBG.Film2Media.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGLbtsn1yzRMe8rTVN8jGo4naYf.jpg" group-title="VOD1 2020",Lady Driver
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGLbtsn1yzRMe8rTVN8jGo4naYf.jpg" group-title="VOD1 2020",Lady Driver (2020)
 http://dl4.perserver.site/Movie/04/Lady.Driver.2020/Lady.Driver.2020.1080p.WEBRip.YTS%5BPDL%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4FpiCt2G2SWwUtMX7kKZWayDUK.jpg" group-title="VOD1 2020",Body Cam (2020)
 http://dl.gemovies.ir/film/Body%20Cam%202020/ORG/Body.Cam.2020.720p.WEBRip.GalaxyRG.Gemovies.ir.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3B2twt8I02cLAPHG6dkDpTFbgz5.jpg" group-title="VOD1 2020",Followed
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3B2twt8I02cLAPHG6dkDpTFbgz5.jpg" group-title="VOD1 2020",Followed (2020)
 http://dl4.perserver.site/Movie/04/Followed.2020/Followed.2020.1080p.WEBRip.YTS%5BPDL%5D.mp4
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/58bd9cafc534a5c4ae52e480/t/59f782409140b7224ca69c74/1509393524449/AF+Art.jpeg" group-title="VOD1 2020",Angels Fallen (2020)
 http://anilist1.ir/Movie/2020/Angels%20Fallen/Angels.Fallen.2020.1080p.WEBRip.x264-YTS.mp4
@@ -273,23 +311,23 @@ http://anilist1.ir/Movie/2020/Angels%20Fallen/Angels.Fallen.2020.1080p.WEBRip.x2
 http://anilist1.ir/Movie/2020/All%20The%20Bright%20Places/All.The.Bright.Places.2020.1080p.10bit.WEBRip.6CH.x265.HEVC.PSA.mkv
 #EXTINF:-1 tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/17689835/p17689835_v_v8_ad.jpg" group-title="VOD1 2020",Anastasia: Once Upon A Time (2020)
 http://anilist1.ir/Movie/2020/Anastasia/Anastasia.2019.1080p.WEBRip.x264.AAC5.1-YTS.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDZmN2ZjMDgtZWM5MS00MDYzLWEzOGQtNzAzOGEyMzY0OTU1XkEyXkFqcGdeQXVyMzQxMDgxOTM@._V1_.jpg" group-title="VOD1 2020",Awoken
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDZmN2ZjMDgtZWM5MS00MDYzLWEzOGQtNzAzOGEyMzY0OTU1XkEyXkFqcGdeQXVyMzQxMDgxOTM@._V1_.jpg" group-title="VOD1 2020",Awoken (2020)
 http://anilist1.ir/Movie/2020/Awoken/Awoken.2019.1080p.WEBRip.x264.AAC5.1.YIFY.mp4
 #EXTINF:-1 tvg-logo="https://miro.medium.com/max/1013/1*4-ODBt5MOegIJoCI3DU8Qw.jpeg" group-title="VOD1 2020",Brahms: The Boy II (2020)
 http://anilist1.ir/Movie/2020/Brahms%20The%20Boy%20II/Brahms.The.Boy.II.2020.1080p.BluRay.x264.AAC5.1.YIFY.mp4
-#EXTINF:-1 tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/15603502/p15603502_v_v8_ab.jpg" group-title="VOD1 2020",Between Waves
+#EXTINF:-1 tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/15603502/p15603502_v_v8_ab.jpg" group-title="VOD1 2020",Between Waves (2020)
 http://anilist1.ir/Movie/2020/Between%20Waves/Between.Waves.2020.1080p.WEBRip.RARBG.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU1YWY5MDItYmJiNC00NzdkLTlmZjgtMjBlYjI2NGIzYmI0XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg" group-title="VOD1 2020",Dreamkatcher
 http://anilist1.ir/Movie/2020/Dreamkatcher/Dreamkatcher.2020.1080p.WEBRip.x264-RARBG.mp4
-#EXTINF:-1 tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/16743457/p16743457_v_v8_ad.jpg" group-title="VOD1 2020",End of the Century
+#EXTINF:-1 tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/16743457/p16743457_v_v8_ad.jpg" group-title="VOD1 2020",End of the Century (2020)
 http://anilist1.ir/Movie/2020/End%20of%20the%20Century/End.Of.The.Century.2019.1080p.BluRay.x264.AAC-YTS.mp4
-#EXTINF:-1 tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/18052769/p18052769_v_v8_ac.jpg" group-title="VOD1 2020",Enemy Lines
+#EXTINF:-1 tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/18052769/p18052769_v_v8_ac.jpg" group-title="VOD1 2020",Enemy Lines (2020)
 http://anilist1.ir/Movie/2020/Enemy%20Lines/Enemy.Lines.2020.1080p.WEBRip.x264.AAC5.1-YTS.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0W9LnjJpNyZvYSSptdl6N6psC0X6Q6X9Jbd8wYxI-hAkjNf3o" group-title="VOD1 2020",Escape from Pretoria
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0W9LnjJpNyZvYSSptdl6N6psC0X6Q6X9Jbd8wYxI-hAkjNf3o" group-title="VOD1 2020",Escape from Pretoria (2020)
 https://lh3.googleusercontent.com/-1QSNJf0cm7M1LS--jGmGZbKiEt8LPLF9pP9wqEPTe8Vr5Z34gm4Dz2RHQPzRlI5crhHhXtBu86VG-XV8RpppmvPlRjcRfaCbuh76j4HviIcUrAHKY80JRLcOAROck22DaqLqxQQ1Q=dv
-#EXTINF:-1 tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/17297485/p17297485_v_v8_ad.jpg" group-title="VOD1 2020",Fantasy Island
+#EXTINF:-1 tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/17297485/p17297485_v_v8_ad.jpg" group-title="VOD1 2020",Fantasy Island (2020)
 https://lh3.googleusercontent.com/VAgiRsSjFXjFdYmmHRqNeVs4t2bWncyQ8g399kfzVU0XCSdhd7sY0IpSeiyugETktd5xfrPVKeIVXlw-eh6M4Cj-jjTLJETyiwh_BiLGFWDELQkOXFWEJ-iHGTSpvEUe8ggj0NNR7g=dv
-#EXTINF:-1 tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/17902712/p17902712_v_v8_aa.jpg" group-title="VOD1 2020",Greenlight
+#EXTINF:-1 tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/17902712/p17902712_v_v8_aa.jpg" group-title="VOD1 2020",Greenlight (2020)
 http://anilist1.ir/Movie/2020/Greenlight/Greenlight.2020.1080p.WEBRip.x264.AAC5.1-YTS.mp4
 #EXTINF:-1 tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/17851076/p17851076_v_v8_aa.jpg" group-title="VOD1 2020",Human Capital (2020)
 http://anilist1.ir/Movie/2020/Human%20Capital/Human.Capital.2020.1080p.WEB-DL.H264.AC3-EVO.mkv
@@ -313,23 +351,23 @@ http://anilist1.ir/Movie/2020/The%20Wretched/The.Wretched.2019.1080p.WEBRip.x264
 http://anilist1.ir/Movie/2020/Transference/Transference.2020.1080p.WEBRip.x264.AAC5.1.YIFY.mp4
 #EXTINF:-1 tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/18135494/p18135494_v_v8_aa.jpg" group-title="VOD1 2020",Within These Walls (2020)
 http://anilist1.ir/Movie/2020/Within%20These%20Walls/Stalker.In.The.Attic.2020.1080p.HDTV.x264-AnimDL.ir.mkv
-#EXTINF:-1 tvg-name="The Outpost (2020)" tvg-logo="https://i1.wp.com/src1.uno/v1/1339870-the-outpost-10NUa.jpg" group-title="VOD1 2020",The Outpost
+#EXTINF:-1 tvg-name="The Outpost (2020)" tvg-logo="https://i1.wp.com/src1.uno/v1/1339870-the-outpost-10NUa.jpg" group-title="VOD1 2020",The Outpost (2020)
 https://lh3.googleusercontent.com/bzJbvDv8Rq8Ue4aQAl5l_I7SfEGRLzmVz8IZ2n0jGAEQXNoWRDexsR2XL_Ze6OJja_gSwzePRYOlBvJKJmHGcW3EGkI3QXEe1E6i2-asXSm0Ch1M7NiCcANclrVCCtUimjcAUw9KRQ=dv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1343058-irresistible-PnaYG.jpg" group-title="VOD1 2020",Irresistible 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1343058-irresistible-PnaYG.jpg" group-title="VOD1 2020",Irresistible (2020)
 https://lh3.googleusercontent.com/dLJG9_4RKM_6NwocKGPQukcBUle7D6u3vS-Nw6NRORZxp_6yzC4kSMs6jqWeBMK9-MwxSJh7FJCfrOttnmCTW1aw1e6EXV-hpPmF9ph8FthB1zNu1A8abd0BAJphLhYfOzcDcC6c6g=dv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1344316-hamilton-GQgdy.jpg" group-title="VOD1 2020",Hamilton || BIOGRAPHY
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1344316-hamilton-GQgdy.jpg" group-title="VOD1 2020",Hamilton (2020)
 https://lh3.googleusercontent.com/UB3_BCLhxYy0kRo59M1Qf1Lpn0wqNBeNgfO09Ws9UzfxXu9XYwoBmhfX0_nwItmoEdDdtYreoGyHWmaAy355hfOXQaX3zqMti7CI8gWsk2FRc_VmKBvTPHyiSL7o0Lv8Z1oqwMaZ7A=dv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/646547-the-silence-ytd_s.jpg" group-title="VOD1 2020",The Silence
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/646547-the-silence-ytd_s.jpg" group-title="VOD1 2020",The Silence (2020)
 https://lh3.googleusercontent.com/61H2D9MvyPvYaLSm4Y26P_9vXkdLnTTUALw0VcyairssjzWq73JrD3ms33Rr3XWuKqMjODJOacL31_27PA2IWM5wM-KqzbaSoEw8NbAdUDD7MrjVPUOpIRwrr_8YeMKSe3X5eghMQw=dv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1342694-the-old-guard-0OXSJ.jpg" group-title="VOD1 2020",The Old Guard || ACTION-FANTASY
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1342694-the-old-guard-0OXSJ.jpg" group-title="VOD1 2020",The Old Guard (2020)
 https://lh3.googleusercontent.com/8tQjUarQmY6kZ8qadgGN0Q96Y8-x4P_ADzGYTMd8fFvdFdsoGRiTjR2V2XWiGHsKJC_vyIXqLmSDJUmTMgc7Ez78LXEYX5mwpChcBPDWFbPhedtBKRrFUHFfnI0uca086RIHgOgBUw=dv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/82126-greyhound-1SJqq.jpg" group-title="VOD1 2020",Greyhound-DRAMA
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/82126-greyhound-1SJqq.jpg" group-title="VOD1 2020",Greyhound (2020)
 https://lh3.googleusercontent.com/q69NyJMJO4hsW5vu19k8Ti13ktKByiMeRXEODOSvY-llDxOfp4gSHZ8qiuNwCssFmXEhoCCMYyLXbnIfu4VkHkxyArbZkgIf3Q4LVwI_xNbFk9T773Y9Rzc4unaoF-xA_Zada87s8w=dv
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1335721-you-should-have-left-ElEaj.jpg" group-title="VOD1 2020",You Should Have Left (2020)
 https://lh3.googleusercontent.com/GFZ07RYndO6O6UkorS3ajxv7_ZHGbjNoyeNX2enUGa668OmkciRRCcB_lJCFDX0xM72DQPoRnYFV5gKrv3sBo_EQCQp1-XHZA3dXERcROaJhmv-VzbAflVsf4_d5aLgLzNtx8wOIYQ=dv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1343527-force-of-nature-xzTzO.jpg" group-title="VOD1 2020",Force of Nature
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1343527-force-of-nature-xzTzO.jpg" group-title="VOD1 2020",Force of Nature (2020)
 https://lh3.googleusercontent.com/tUKz8cfBDA5rAgVWbDI_XHLas-hSaXON6yJm7T1bZmTVTDCzH3jRyKecfhTMPvun-H8vZBjTemk3H2AI3XKI_8wEzhvl2l78qJj7oIiymwo0UmypkQRMcYN0SUYNbgALAnGxJvDw3Q=dv
-#EXTINF:-1 tvg-ID="" tvg-name="Like a Boss " tvg-logo="https://i1.wp.com/src1.uno/v1/916364-like-a-boss-t21Nw.jpg" group-title="VOD1 2020",Like a Boss (2020) -COMEDY
+#EXTINF:-1 tvg-ID="" tvg-name="Like a Boss " tvg-logo="https://i1.wp.com/src1.uno/v1/916364-like-a-boss-t21Nw.jpg" group-title="VOD1 2020",Like a Boss (2020)
 https://lh3.googleusercontent.com/EVaIp4QIazgH4VzmNoiqNAdH3rzdYGXPzFJ-OwP--ml9W5xTv01pNtqCj3WRPH1Y_CPC75veDZ9hXZ0q7LpPCtxFYwlN4CSoTQprLqlK09h2worzmQLnzkztgU3apCMsvGm7gIDVoQ=dv
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/The_Call_of_the_Wild_poster.jpg/220px-The_Call_of_the_Wild_poster.jpg" group-title="VOD1 2020",The Call Of The Wild (2020)
 http://dl2.film2serial.ir/film2serial/film/asli/99/1/The.Call.of.the.Wild.1080p.WEB-DL.Farsi.Subbed.mkv
@@ -341,17 +379,17 @@ https://lh3.googleusercontent.com/L5iVxR4wyuBG9Votp7vHtbThWV7vP5Cm_JXmiytfuU2JL0
 https://lh3.googleusercontent.com/ZttLiTjgrXvD4UmyFy1Cbw7Vh6xQfIHwE_pBoQBfBH6i-q6rnRgDZLMvAnLWN5G4HR1D8TPYFK0IIp2qyWN9Osv4jDf5i1M2a-Vk6aSh0MAI8v8oYkAhUUXscSIXEyBbuGtnLWBKfw=dv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpN5tbM7E66r4Wj7o5UqKhHMMTQ.jpg" group-title="VOD1 2020",Babysplitters
 http://dl4.perserver.site/Movie/04/Babysplitters.2020/Babysplitters.2020.1080p.WEBRip.GalaxyRG%5BPDL%5D.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqPwUvYOnX4VJx77rLNYMT7q6NW.jpg" group-title="VOD1 2020",Dead Voices
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqPwUvYOnX4VJx77rLNYMT7q6NW.jpg" group-title="VOD1 2020",Dead Voices (2020)
 http://dl4.perserver.site/Movie/04/Dead.Voices.2020/Dead.Voices.2020.1080p.WEB-DL.H264.AC3-EVO%5BPDL%5D.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5VrmnvvKF5sbi81JfcKvoY5nIO.jpg" group-title="VOD1 2020",Browse
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5VrmnvvKF5sbi81JfcKvoY5nIO.jpg" group-title="VOD1 2020",Browse (2020)
 http://dl4.perserver.site/Movie/04/Browse.2020/Browse.2020.1080p.WEB-DL.H264.AC3-EVO%5BPDL%5D.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hPiUZngKyxyekKq2ocjDa8jo9a.jpg" group-title="VOD1 2020",Subferatu
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hPiUZngKyxyekKq2ocjDa8jo9a.jpg" group-title="VOD1 2020",Subferatu (2020)
 http://dl4.perserver.site/Movie/04/Subferatu.2020/Subferatu.2020.1080p.WEBRip.YTS%5BPDL%5D.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcNbQWAb9DVsL9U9dX4TYi3Ci9L.jpg" group-title="VOD1 2020",Broil
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcNbQWAb9DVsL9U9dX4TYi3Ci9L.jpg" group-title="VOD1 2020",Broil (2020)
 http://dl4.perserver.site/Movie/04/Broil.2020/Broil.2020.1080p.WEB-DL.H264.AC3-EVO%5BPDL%5D.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Becoming" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NZdljsmvWcAGyPqzKgmdLvn97t.jpg" group-title="VOD1 2020",Becoming 
+#EXTINF:-1 tvg-ID="" tvg-name="Becoming" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NZdljsmvWcAGyPqzKgmdLvn97t.jpg" group-title="VOD1 2020",Becoming (2019)
 https://lh3.googleusercontent.com/G-52fbsC8x2wYjq_pqR4W17ghAzYhLAZNQ1PjyToNYuMA9mnwG03yGb8yYHOKxzTyCY_-yDIhAjwcICChbLN3pPeLEVR2ZTt47hmVThrFCDEITHtZ-nZX_WiSBNX2tOs9pJypp6jbw=dv
-#EXTINF:-1 tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/17881880/p17881880_v_v8_aa.jpg" group-title="VOD1 2020",Just One More Kiss
+#EXTINF:-1 tvg-logo="https://www.gstatic.com/tv/thumb/v22vodart/17881880/p17881880_v_v8_aa.jpg" group-title="VOD1 2020",Just One More Kiss (2019)
 http://anilist1.ir/Movie/2020/Just%20One%20More%20Kiss/Just.One.More.Kiss.2019.1080p.WEBRip.x264.AAC5.1.YIFY.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61OSPKrszSL.jpg" group-title="VOD1 2020",The House on the Hill (2020)
 http://anilist1.ir/Movie/2020/The%20House%20On%20The%20Hill/The.House.On.The.Hill.2019.1080p.WEBRip.x264.AAC.YIFY.mp4
@@ -413,17 +451,17 @@ http://dl5.perserver.site/Movie/06/Coriolanus.2019/Coriolanus.2019.1080p.WEBRip.
 https://lh3.googleusercontent.com/ExWvq9-2mkpfL3Mitc-ud2wggmcSWQ0zk3JhJ69x1FNs-RFXvtxnMsxx1J7KeMgW36hOTRWB-COUp7jFWxLVLXQVrhu-MW8IxidMkX44RwrxumcPuMIPHKEPywtaBSfn7XqClKpCAQ=dv
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/715156-primal-sAHoe.jpg" group-title="VOD2 2010-2019",Primal (2019)
 https://lh3.googleusercontent.com/3R47gLfR5p0SGMId7fwXtNdFX5M6uVTmOpgnTz7Diy5G2f0-AHOZzanEpixak4E_XhcOssxeoJzqJdCpoDqvSpHSfZ3fyxkOyT6eH6G_Yo4skrzLo8kHvzWvWGA990xFnJ5rDpcmh5g=dv
-#EXTINF:-1 tvg-ID="" tvg-name="The Professor and the Madman" tvg-logo="https://i1.wp.com/src1.uno/v1/1285763-the-professor-and-the-madman-bWM3V.jpg" group-title="VOD2 2010-2019",The Professor and the Madman
+#EXTINF:-1 tvg-ID="" tvg-name="The Professor and the Madman" tvg-logo="https://i1.wp.com/src1.uno/v1/1285763-the-professor-and-the-madman-bWM3V.jpg" group-title="VOD2 2010-2019",The Professor and the Madman (2019)
 https://lh3.googleusercontent.com/BRu2VhBirTT91-ncnq25cU5HOZoX8ZLLf685NU5Vs8OOqQkEva8ESruXhHfqEB6DXB5cAwMIeqmp5VDjdEZtW5LR2ZZ9A7yziFxM8OXeFj8ct3ekaENvOC6Fmw80PF8tz8_9dDgwqg=dv
 #EXTINF:-1 tvg-ID="" tvg-name="Tolkien" tvg-logo="https://i1.wp.com/src1.uno/v1/1330803-tolkien-e5xOK.jpg" group-title="VOD2 2010-2019",Tolkien (2019)
 https://lh3.googleusercontent.com/AXIth7yPVdVzTOGILBm_RV9_3RneOO_bTyVmhQNFiPdLA_0Rgixb4biZyfFpeXwLx2ai1ieetIfW0qlskZdD1reLFQQKbh0mp3g17kMQVLPHLKTcm2D6dC0qX2ifdXKYUswMZeG1NA=dv
-#EXTINF:-1 tvg-ID="" tvg-name="The Aeronauts " tvg-logo="https://i1.wp.com/src1.uno/v1/1332030-the-aeronauts-WUHjT.jpg" group-title="VOD2 2010-2019",The Aeronauts 
+#EXTINF:-1 tvg-ID="" tvg-name="The Aeronauts " tvg-logo="https://i1.wp.com/src1.uno/v1/1332030-the-aeronauts-WUHjT.jpg" group-title="VOD2 2010-2019",The Aeronauts (2019)
 https://lh3.googleusercontent.com/qp58-QbPpyX6GosvmvttZSDtGRVnKOjJCtcPgcOj7PmJ9gjpdph2b48ynk5r9JN3sP5OtRGMiKeQZmp6tfBx5YcyByb11mGGuqdvjwQu7DeXXY4AUjyU8KBBVeFs0Wq0sXHsmAVpYA=dv
 #EXTINF:-1 tvg-ID="" tvg-name="Captain Marvel " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg" group-title="VOD2 2010-2019",Captain Marvel 
 https://lh3.googleusercontent.com/bLEZZsyul8u8fr2Idckxi1FsDIUUWe6Uhv5f7rctB0awxI2QK06Tgs7u7AFZy-OdMBtdfG_VQTup-Y4Z2X7RZR9JF9IKLYAdYhKaKmGx46UuI9B2BDWvRgk9JITnOzlDx9Hl8SRgGvc=dv
 #EXTINF:-1 tvg-ID="" tvg-name="GOOD BOYS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/Good_Boys_Movie_Poster.jpg" group-title="VOD2 2010-2019",Good Boys (2019)
 https://lh3.googleusercontent.com/6zerbf3CV9a8Nv3e_Lg5_6wvsm19Vu0RgQvKYrS0DsMJHkGo6vqj4fBB1B_Php6aB7HNBDos5ZTwSeFMbSvCi6_AEskUGtkZbKus11cRdOv02k__9fOfh1q3hewjnGRuFlEdfm0chQ=dv
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/El_camino_bb_film_poster.jpg" group-title="VOD2 2010-2019",El Camino: A Breaking Bad Movie
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/El_camino_bb_film_poster.jpg" group-title="VOD2 2010-2019",El Camino: A Breaking Bad Movie (2019)
 https://lh3.googleusercontent.com/S7_eWFZuIt_Iqt4OnLAVDcoAhChvRgwp04-_zQDSdTt9XUPCERSoD9icc1Orpwtfu1HHbZqt-2QsVEKj15Q1hgGXc-Y8sp4QkbG3NtIV-0EUkAL4cSkshbZXzFQMaQTh4n0rJVblAQ=dv
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Ad_Astra_-_film_poster.jpg" group-title="VOD2 2010-2019",Ad Astra (2019)
 https://lh3.googleusercontent.com/BNpivH1nKscyibtPq7k-3j3OCMTYhrdjg8aEAGKk2MxXzlOalE61h-sB6Y5ktooK4m-cgyH1jlNwyFGL-SfaAbhj8mftC_Rth3i0G7oF6l2z26VYw9S7jDydUrZbbw14vaszNtIDtw=dv
@@ -431,13 +469,13 @@ https://lh3.googleusercontent.com/BNpivH1nKscyibtPq7k-3j3OCMTYhrdjg8aEAGKk2MxXzl
 https://lh3.googleusercontent.com/xvqLo8p93dzIu0z3D2vE1a1tDij27hGEGU-QXe1mayNH3hHZn5AMU41i91lvdd3dUjXub9YgWb-A1mHNW_hV2MfyDDi7-3iIXEw9lZa1y54W6xizvOC2DhLMz104r3Nj6CUMxN0C5g=dv
 #EXTINF:-1 tvg-name="Glass (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg" group-title="VOD2 2010-2019",Glass
 https://lh3.googleusercontent.com/j-vpbwndZxL0mnubcZPG-e1wDsy7UH7mDv3myL5_z4mI601Q6UtKnMsLs44a4Y_yCbeKB6o9ARX2rKqdQMSKaCT1HPkiYDgXsaRQ7qFZ1Vo_yOxu9JqwLSoUGBVHj98-l9DEkgXLJlk=dv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynPJkpmWNi4rnDUb0PuzDnJj5JI.jpg" group-title="VOD2 2010-2019",The Other Lamb || HOROR-THRILLER
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynPJkpmWNi4rnDUb0PuzDnJj5JI.jpg" group-title="VOD2 2010-2019",The Other Lamb (2019)
 http://5f8u2z8mn5qjqvfdxs59z5g6aw8djt.w0kriscaz3hcff0sb26887827rxg7ib99m7xk9x9ikr3qil7ax59bjh1ogl.xyz/Film/New-Server/2019/The.Other.Lamb.2019.1080p.BluRay.YIFY.Film2Media.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cttGxFQt5nRROFZYC3nJbs3dPE1.jpg" group-title="VOD2 2010-2019",Volition
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cttGxFQt5nRROFZYC3nJbs3dPE1.jpg" group-title="VOD2 2010-2019",Volition (2019)
 http://dl4.perserver.site/Movie/04/Volition.2019/Volition.2019.1080p.WEB-DL.H264.AC3-EVO%5BPDL%5D.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyMjZJNAsvfnW8OS4JWh6TdKWzk.jpg" group-title="VOD2 2010-2019",The Beach House
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyMjZJNAsvfnW8OS4JWh6TdKWzk.jpg" group-title="VOD2 2010-2019",The Beach House (2019)
 http://5f8u2z8mn5qjqvfdxs59z5g6aw8djt.w0kriscaz3hcff0sb26887827rxg7ib99m7xk9x9ikr3qil7ax59bjh1ogl.xyz/Film/New-Server/2019/The.B.House.2019.1080p.WEB-DL.RARBG.Film2Media.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQ066tli26Q4tmVVZw3s9F6UrUF.jpg" group-title="VOD2 2010-2019",Homeless Ashes
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQ066tli26Q4tmVVZw3s9F6UrUF.jpg" group-title="VOD2 2010-2019",Homeless Ashes (2019)
 http://icdn.berlincloud.pw/storage/28/Homeless.Ashes.2019.1080p.AMZN.WEB-DL.GalaxyRG.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2dYdtArwjZJRXbKNFlqr20g8Er.jpg" group-title="VOD2 2010-2019",Awake (2019)
 https://www.dlb3d.top/M/Awake.2019/Awake%20(2019)%20720p%20BluRay.mp4
@@ -469,9 +507,9 @@ https://lh3.googleusercontent.com/5e0_DJMtwiqMhkVdqjohe8b0CQM9QERtfuK0NLSemX6Un2
 https://lh3.googleusercontent.com/vVaK0dFtyZlCFXjEO_7ziHxu7WVhHrFHrv7cheF0MlnMnzaig0gP4QCfSUjvihr47cWdaUl1J5bjhNnP04Zht46ul2jDHsaXImQlbdZmrAOZQhuMdyrn30t7HpYtgdS8J2jsBAM0vQ=dv
 #EXTINF:-1 tvg-ID="" tvg-name="Crawl" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kOtMOUa5HrOiIG2Z9Anv7M8AbY.jpg" group-title="VOD2 2010-2019",Crawl (2019)
 https://lh3.googleusercontent.com/OOht1AYZUrFsE3YqxAliGM4gVfSkCIvlJKDxyZQQQKC-6bmszsXzzaUlhciBj_O09AYVgQQAHxWgnmbetIImWLKteglGkFIjKt2K9bari_4jDa_F_eBEW_HUgmn3JHlEfVoEfEpvsH0=dv
-#EXTINF:-1 tvg-ID="" tvg-name="Ma" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6n7ASmQ1wY2cxTubFFGlcvPpyk7.jpg" group-title="VOD2 2010-2019",Ma || PSYCHO-ACTION
+#EXTINF:-1 tvg-ID="" tvg-name="Ma" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6n7ASmQ1wY2cxTubFFGlcvPpyk7.jpg" group-title="VOD2 2010-2019",Ma (2019)
 https://lh3.googleusercontent.com/jYEtNnUHKkmvp1ZfFQwJybK9LXHLbnHUCYxHCpQ8TcixwWn17DfwegdRZCw6F4CsMRYhJ8tnptak8nOQBIhAuN789pADYFl9fgPrv_kM2ICSj6JdNel0RUlPU-IdobpbTym6GyePfQ=dv
-#EXTINF:-1 tvg-ID="" tvg-name="Escape Room" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ls1tZ6qjGzfGHjBB7ihOnf7f0b.jpg" group-title="VOD2 2010-2019",Escape Room-HORROR
+#EXTINF:-1 tvg-ID="" tvg-name="Escape Room" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ls1tZ6qjGzfGHjBB7ihOnf7f0b.jpg" group-title="VOD2 2010-2019",Escape Room2019 
 https://lh3.googleusercontent.com/wSuarHXrcrIuQtn7RLYo3fOU4RE22HFG2VEm1ujvepaOjcSp6WkGdWQGQKcYhjXWp1DAqZN9X9MDLdK8BLxjYmJGjc2ysyzv2VVRyr0osPKHuUTIgRBEnbDIoSb7revfQfignCDNt4s=dv
 #EXTINF:-1 tvg-ID="" tvg-name="Mary Poppins Returns" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg" group-title="VOD2 2010-2019",Mary Poppins Returns (2019)
 https://lh3.googleusercontent.com/oQY6zQSLa4N5OEJpjD2FDd0kwm0271rvAo3OxWZOjGWIX_EoR7hFeGi5J3tnWgtdsbKqhUdK3OJe1t4-yg8V_bqSIGNjy0ZXKnuRR0fLIskdW-RE165lsqC_oHmHqyNkx9kdTRWGA_0=dv
@@ -481,7 +519,7 @@ https://lh3.googleusercontent.com/6HfIaOsj0Ppksh_fsRUi_ixm1NA4bdM8unKHrOBMgMwHJB
 http://dl2.film2serial.ir/film2serial/film/asli/99/1/Pinocchio.2019.1080p.WEB-DL.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZn87R7gtmMCGGO8KeaAfZDhXLg.jpg" group-title="VOD2 2010-2019",A Dogs Way Home (2019)
 http://dl2.film2serial.ir/film2serial/film/asli/98/1/A.Dogs.Way.Home.2019.1080p.6CH..mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwwB6aL8jyoqUWt5W6LPKnw0TDU.jpg" group-title="VOD2 2010-2019",Breakthrough (209)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwwB6aL8jyoqUWt5W6LPKnw0TDU.jpg" group-title="VOD5 RELIGIOUS MOVIES",Breakthrough (209)
 http://dl2.film2serial.ir/film2serial/film/asli/98/4/Breakthrough.2019.1080p.6CH..mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbGveUC8mk0QRkdXpERPLbMFnrg.jpg" group-title="VOD2 2010-2019",The Informer (2019)
 http://dl2.film2serial.ir/film2serial/film/asli/98/10/The.Informer.2019.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -503,7 +541,7 @@ https://lh3.googleusercontent.com/rJShClXKYfTv5il5Mg7RzcKH4mcCDaqOBSDoJIFtO2yb47
 https://lh3.googleusercontent.com/q3r3MqKPs6urF2ERrzR0vkyglVvTlVSzOx_pm2ofiwGqMIbFbcQpCuQD0ExS2nmJTfRlXrbzxwFgQKBqtRQFmrcx4IngrsBb725HoXTHs3gMM8xkb-FPg1zZRH0EdtEDsLX1CX3qpCs=dv
 #EXTINF:-1 tvg-ID="" tvg-name="JOJO RABBIT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/Jojo_Rabbit_%282019%29_poster.jpg" group-title="VOD2 2010-2019",Jojo Rabbit (2019)
 https://lh3.googleusercontent.com/WOqrIW3xGSD4h8ywc-UgS9ljMx498gsEonyD9LixHlhQsxnlEaivF3nvj2ymBHMtDBoz1f1StTL-lNCldpSq208TCTRJ0hcq7OB2am0XeCX-IRamhrNJ5_C9Xg3IZetZksV7A_Syxg=dv
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/original/6ApDtO7xaWAfPqfi2IARXIzj8QS.jpg" group-title="VOD2 2010-2019",FORD V FERRARI (2019)
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/original/6ApDtO7xaWAfPqfi2IARXIzj8QS.jpg" group-title="VOD2 2010-2019",Ford V Ferrari (2019)
 https://lh3.googleusercontent.com/3wT8-P0WYYq0CYThJtIcVK-Xvl4_XSJ_BcNJCu0SEyhK9_0nlA1Ds-714MvZbFxxH5gWPxrtzvHefHjT5hZAIIt9JrGcH39BNUzvOjUoIfFf0u-k8lAqCxMMAtYtjNj2e4VWpBv1WQ=dv
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Knives_Out_poster.jpeg" group-title="VOD2 2010-2019",Knives Out (2019)
 https://lh3.googleusercontent.com/STLguhyhLfBUJihW3zWGWt_QGvSuPPqPZ1QVWnVRZ__hVwiT7ot7tmpT1Pf9lGGHrQwaBhWophrB-pETLtMjdDkIotzsjRMk34RNhTmm3SoOQECY2vY-RdN-MNmZye26WI5rBG21yw=dv
@@ -513,17 +551,17 @@ https://lh3.googleusercontent.com/_LRs6-NeCzlJWNAmg3NpkXqyQ1wDVj0vt8B9zeNnacPk_g
 https://lh3.googleusercontent.com/ovR0drQfQfh_3G_h3EQoMLH_Dy0oNcbxstzb6qburhQSrSk0ut-leg8YGPOBCT-EVtcvQhwLC1oNv0DpK-PlsDTASwq7Hwu1Qw0LDL-VmzrNqhdvtWBSgqLeV8mKGNLmV6WS5zx1GQ=dv
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg" group-title="VOD2 2010-2019",Joker (2019)
 https://lh3.googleusercontent.com/_S4c3P8jIATJXzZDZSct24fxdKMBs_WbwRJUCIX6mrRLfYC8X9Ta6MrzSdD5Y-WtqCPjE5QwF5whVEt-qKgXzXCi0u7mEkHVa9qr8_iWnmDOkMf2yNNLIYGPnEpmWCLAVeAa8cDYwg=dv
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/21BridgesPoster.jpeg" group-title="VOD2 2010-2019",21 Bridges
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/21BridgesPoster.jpeg" group-title="VOD2 2010-2019",21 Bridges (2019)
 https://lh3.googleusercontent.com/6a5QRHQ28MWCZqOYHQTy6BYhlX7PDeFCF1zTJ_CroeydXmKdN7nCULrNbx0GYCv-1hWMC_IZbvCnOysGquuaNarGpPP-gQX8vjnRYmf-NTKQgHxh4ENVBk9COKFZDu57cQNUhhkZag=dv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/GeminiManPoster.jpeg" group-title="VOD2 2010-2019",Gemini Man
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/GeminiManPoster.jpeg" group-title="VOD2 2010-2019",Gemini Man (2019)
 https://lh3.googleusercontent.com/UKcuigwsVrEt9qugYEOwUWwfpmH6gEWMhtdCEr_3RNi9hUwrNL-wrnglAruBxRYACf1ddaoit-HbMW9IrpbBj2-NivQqKVWgv8LF7OM6NqBatWszXg7-tY6U4r-NvZnfAfhxRAqoO7U=dv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg" group-title="VOD2 2010-2019",Star Wars: The Rise of Skywalker
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg" group-title="VOD2 2010-2019",Star Wars: The Rise of Skywalker (2019)
 https://lh3.googleusercontent.com/g8JdELlOrzqYNNHP6shNQ2yt4Kdn8xTZXNXv6Qqkc7nfeYBP15KMRbuX8-nPdpRjaZ9Sn2QyTEHE7_8clL72SAjwtqZtIWGnzMDarFLvXeyNYlGJ7-HzYUxaBgPecngk0osNp16YEA=dv
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjMJy5OxJHpFIaboCklDIYdcfpD.jpg" group-title="VOD2 2010-2019",Motherless Brooklyn
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjMJy5OxJHpFIaboCklDIYdcfpD.jpg" group-title="VOD2 2010-2019",Motherless Brooklyn (2019)
 https://lh3.googleusercontent.com/Lp31v70Rx4uJ9jpRETe8jkHOytXHw-9P1gPq-O6pgOUrdt0FWSYNlBcW6oRzehzdFPGYkF8FcS0LeLlVFD342FWbx5PWFwpDYOK0ZhQQ2OR0m6Po5BaU1bnqRR1TUpsqHktREP2zzg=dv
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cSHEKYYP8Dpi4o1iBVd4U75FYt.jpg" group-title="VOD2 2010-2019",Black And Blue
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cSHEKYYP8Dpi4o1iBVd4U75FYt.jpg" group-title="VOD2 2010-2019",Black And Blue (2019)
 https://lh3.googleusercontent.com/oQtJvXpR0N_LqGB4FWWg4jm-hkpUkr3b019TlQK4V5RFLPRjZJQHzghax9ZrEfqFHSDsHIQ6IavKiXGuInUXkWRokSkxD2HN5z9-mrAdu54TTg5c69VAbCbmGBz91dB0MQZ03dV21qk=dv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg" group-title="VOD2 2010-2019",Rocketman
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg" group-title="VOD2 2010-2019",Rocketman (2019)
 https://lh3.googleusercontent.com/cQPXlVc8H693ZtXcwEY_Fzezppy_MmyOOU1wvuExmpKaLAKEn6e9NcgQiqPUPGP9RflWDjBFylhAmnL9B8tdG_2_WkWIxFHPV4vUPG-9ZfqpehEAf78yBQcF_-Tafk2YDKpoCm6fpGc=dv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xRWht48C2V8XNfzvPehyClOvDni.jpg" group-title="VOD2 2010-2019",Alita: Battle Angel (2019)
 https://lh3.googleusercontent.com/dmQN_VmJYUdU9CYPbJIy4Jl5j9hW2xSxpUO8aiy3X7jRgBCZzqoXEiRqcIHe19TBy107ZxHdnNbUY6rHQTOsN4hq8JJfLsXDF2-rHdgPuftpp9RFEbAK6V1Pbp_S4HsOURKgwoe4IZo=dv
@@ -555,7 +593,7 @@ https://lh3.googleusercontent.com/052CVdwAePM3cDK7FsKMe7RJQ_iM9paNNZf5GD_e52DQ_x
 https://lh3.googleusercontent.com/-ge4arF1-LH6vUpTejppd-kifzassLUINIqs1lTVMIgO_snamPGGnjUiWntmwCI7IvHq5gSpv6eiJwgLMARvSjQlozT11KGfQi63oGvufdAt3rI7iOSy_xCDIAA-PM_eFLql9iZS5w=dv
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/376566-rampage-3IrYo.jpg" group-title="VOD2 2010-2019",Rampage (2018)
 https://lh3.googleusercontent.com/I-Fh2J92mzlJOsmbCpGiZgNDaDNE-ZTacZQlGpULSJ0V0ofyIyDBTNbftMry0N2FNvlqk5_viR-byO457SCfY1XNsAwweFkOz-fztbD4o5Qhb-K3q_eMwNbd3PsaJ6TU4hl7OSn9xvQ=dv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veZszwMZu8d3WMU6TJX9sV5w1Y4.jpg" group-title="VOD2 2010-2019",I Can Only Imagine (2018)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veZszwMZu8d3WMU6TJX9sV5w1Y4.jpg" group-title="VOD5 RELIGIOUS MOVIES",I Can Only Imagine (2018)
 https://dl.injaupload.com/film/Movie/2018/I%20Can%20Only%20Imagine%202018/I.Can.Only.Imagine.2018.1080p.BrRip.YIFY.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg" group-title="VOD2 2010-2019",Peppermint (2018)
 https://dl.injaupload.com/film/Movie/2018/Peppermint%202018/Peppermint.2018.1080p.x265.BrRip.6CH.PSA.mkv
@@ -585,15 +623,15 @@ https://lh3.googleusercontent.com/O2ylGs3TNJml-OVN3cDkvtpnjzLNkMCzMzo91AWt7l3aTv
 https://lh3.googleusercontent.com/Hll3_peYu9JxD5Qaa0_JqdZZmlNCmddnlXFJWPcSpepcHvyJAebRMoffjRzzOjtQRh-TAZwLpo64P0sW93dTnpHrIogul9tqqqriCf2mahNQa0mYSmtIvldM22gjbLCvMxCIzHuPxcg=dv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bCO3HaYM4p6n2y4DLmGdu1QClNW.jpg" group-title="VOD2 2010-2019",Skyscraper (2018)
 http://dl5.dlb3d.ir/M/Skyscraper.2018/Skyscraper.2018.1080p.WEB-DL.MkvCage.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg" group-title="VOD2 2010-2019",Mortal Engines
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg" group-title="VOD2 2010-2019",Mortal Engines (2018)
 https://lh3.googleusercontent.com/-Xc7NRNpMx4d8DrEr8axq7M3Gnlip9HcLyOJsXr52ThMgXbt0AcA3iuKpUyFYAeNfaNpom7wrSHe7IDn-_3X4Ih9jXZJRjfrRD2eWURjmc6OojjopRrpbCloZSjQDJ4ipziJYkuXYms=dv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg" group-title="VOD2 2010-2019",First Man
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg" group-title="VOD2 2010-2019",First Man (2018)
 https://lh3.googleusercontent.com/6SfQ8DWebH70UhdhU8dNTC6Rn2qQwWDeEzhCO18ND2JL1qhZWXZ0Wgrn8jec7Y7mU6BVxhzZjNV9rJn-bXJU6bW1K1Jm9QGT0-UU9RBKtg-3u17_4gjXX7Kbk4luCKq9Xwa-u4tom80=dv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDDb0H0uJp2wjoJBbBHbKlYRbug.jpg" group-title="VOD2 2010-2019",The Possession of Hannah Grace
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDDb0H0uJp2wjoJBbBHbKlYRbug.jpg" group-title="VOD2 2010-2019",The Possession of Hannah Grace (2018)
 https://lh3.googleusercontent.com/K8HQOAM4Ephk03AtLhhi_ogXJORXELyW0d1MAihyfHKDY2_VT51Dr0tUiUnx1toPYETkbTd6X-MJF_M42f88IliuYzdB5OXU1de5is-VRW5viqM5282PD0nCaPlkNdKvzypzdP6zNVM=dv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg" group-title="VOD2 2010-2019",Ant-Man and the Wasp
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg" group-title="VOD2 2010-2019",Ant-Man and the Wasp (2018)
 https://lh3.googleusercontent.com/x-KTalP_nv-duRd_xv4AhP4q_AuOYFCE_39pwVlahDP_bYhyR2QxZZwWT9uTboz4B4gyMHyZ5T47t4MIXHVC9mIzOJ2X4q36eSl0iOSgB4r98J_5Cdfp_tS0P0l3GK4dYCdl22rS6Y4=dv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg" group-title="VOD2 2010-2019",The Darkest Minds
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg" group-title="VOD2 2010-2019",The Darkest Minds (2018)
 https://lh3.googleusercontent.com/D5OYDHlbr_jl8QrIiIfEL0WkcvHuMcwG6FMZlr0wt98pMqys7CbEAZhYKnSLa7TRItmKVVrjd0xm6h3iYtYz4R6chCYrfUsCM4xyZ_5hub7Ajf2Pz0b4PwalMtoq8D9R_0lBfwxOOto=dv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxzzxijgPIY7slzFvMotPv8wjKA.jpg" group-title="VOD2 2010-2019",Black Panther (2018)
 https://lh3.googleusercontent.com/rXgHgdIT11Cg1GKcReZHuzAKvYepHlAhcIUzxbOF8aAWM2gHV2ynZGSGLV2x9WXaiSBVjSLN1j0ObNZP1OMtVOxpBf-b7uT-eueyaipi1itZgfQutmEc1KtzMMRRti9xOzWf49FevlE=dv
@@ -651,9 +689,9 @@ https://lh3.googleusercontent.com/nkUpc48xLaDMikD3XxY6J-gQ0Vfr8zq8Z5c1Tz2ViAbpGX
 https://lh3.googleusercontent.com/8LKZEk8isQYgGcuLU4PBjWOww_WNAZvIhP41xESsdYlfa2LLdAbV5NZWaKE4iYRpgORR_iynEQmHkKzyKuPRt95QUiFa8VPU1gdba29koVGddTdBoad3XWf5-4vkULWKnIifo7RKFQ=dv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uGsjYHPZ0NbI7GHrHlq98D4kFYB.jpg" group-title="VOD2 2010-2019",Alice Through the Looking Glass (2016)
 http://103.76.196.90/Data/Disk1/Hollywood/2016/Alice%20Through%20the%20Looking%20Glass%20%282016%29/Alice.Through.the.Looking.Glass.2016__720p.BRrip__BDPLEX.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c9CoGrBA5yw8A7YBMz0hGzfzpNq.jpg" group-title="VOD2 2010-2019",Ben-Hur (2016)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c9CoGrBA5yw8A7YBMz0hGzfzpNq.jpg" group-title="VOD5 RELIGIOUS MOVIES",Ben-Hur (2016)
 http://s8.bitdl.ir/Movie/Ben-Hur.2016/Ben-Hur.2016.1080p.6CH.ShAaNiG_Bia2HD.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vVJRemwt0WyqnwLMIAaa2FNZBME.jpg" group-title="VOD2 2010-2019",Hacksaw Ridge (2016)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vVJRemwt0WyqnwLMIAaa2FNZBME.jpg" group-title="VOD5 RELIGIOUS MOVIES",Hacksaw Ridge (2016)
 https://lh3.googleusercontent.com/ldlIZ8WElrSz00Hj3UdXYHjTBiZ_UQiKm5loPXAqYEMvoscqEeucY5eRZjESYgR8Mn-a5hycq-UXOJsP69MvxxQdy1XIf226TvUZGQ_CumUfupv6W-m9UdzfGdS7Q9cbdTjh62XUAYU=dv
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1233735-the-boy-oDrLf.jpg" group-title="VOD2 2010-2019",The Boy (2016)
 https://lh3.googleusercontent.com/LhHsqQGIxtIOWC9K9p8N0VQ0dO_t-EH7GAQ4r8ItN8DYptNTBHRk6o1e6uMFiF57XKWkzWkuhp6LkwNsnVUXjA-G1_pwlfulw4grxf3joNr9fZ4YbP8Dgna2D_9RdODdELddHEOJsA=dv
@@ -679,9 +717,9 @@ https://lh3.googleusercontent.com/mBMVqyzzZPxXvXd2g6aG8F9rsWyUyH4R33B_OVF5Pt9ZNE
 https://lh3.googleusercontent.com/yrnmW-anE-aij6xeHfCEkHGvcWp0CAsBQTRangi44IhWonKFLHP2q700YYDXZFB-qJBE9KOwrw9CteaovMsd_UwIrvm2ITG092Rn7SX77AGeAOJipgnxGG48Oh-MwXRkP9xWvVkYLpw=dv
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/708743-left-behind-goy4x.jpg" group-title="VOD2 2010-2019",Left Behind (2014)
 https://lh3.googleusercontent.com/10alM1cc0lLh7Wd1gKFklAFK6-0CxLsY4VOJtxEymEnTsm_Ats_4TZyp7QTfwXLGznb2fyrWP0k2Qvr39rCWAyiiDJVy3CLkJZxorpBftZKnCCwWOv5EhgjAkBQK85qp669VKh6jJw=dv
-#EXTINF:-1 tvg-ID="" tvg-name="Edge of Tomorrow" tvg-logo="https://i1.wp.com/src1.uno/v1/899663-edge-of-tomorrow-Lrl5s.jpg" group-title="VOD2 2010-2019",Edge of Tomorrow
+#EXTINF:-1 tvg-ID="" tvg-name="Edge of Tomorrow" tvg-logo="https://i1.wp.com/src1.uno/v1/899663-edge-of-tomorrow-Lrl5s.jpg" group-title="VOD2 2010-2019",Edge of Tomorrow (2014)
 https://lh3.googleusercontent.com/Yh7Qvvh9C5v1_ELJmkDtxRi14ODIn3r4c6Uf-fkYoXD8Izdi2kwV8Cid1z7GV44qJboBSknuqvQjKAe1miTE0psGJLI1Sw7fKueKHF0daFheDYBu5AIOPrTBdD2gMKN7nK35-LEzLAA=dv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9qiL3HGmujEQuKAY1oniXJoSMV.jpg" group-title="VOD2 2010-2019",Noah-ADVENTURE
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9qiL3HGmujEQuKAY1oniXJoSMV.jpg" group-title="VOD5 RELIGIOUS MOVIES",Noah (2014)
 https://lh3.googleusercontent.com/IN9bGDJ5jp2N4ofBA6W5UhaLCg0SYISiqowoCjaFptoPRTUGdQ0PpY_WJW6e1pY1nBVf5GY_tA-ljVtwfCusEFEdkJEzVh4Z95mCgr3KwoaKeJnY0kdFNLrlDilc5wa4HZQTEgsxZmE=dv
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/468776-the-great-gatsby-4XtFk.jpg" group-title="VOD2 2010-2019",The Great Gatsby (2013)
 https://lh3.googleusercontent.com/uKEPlI9QF657CbxeKOsg22JIFxZtb96WO4Vna22Z2uNqViNDdtiEvRvTnrdi6OhJxW4qlZKoWIiqTSJdZajzQxbf8JR1yED-89f2z8v6kirytPzlX0Tu0WgQgjtCq5CkqVADOd_tZg=dv
@@ -723,15 +761,15 @@ https://lh3.googleusercontent.com/4Xgr8aBnVgM930ylqye_VTEEzG2nq8pJbwjSL343sijoR-
 https://lh3.googleusercontent.com/yNKfuBFgPKIqBReMxJV8J9k-4n8DqCBH6szV3AaBH_I3wgNJhRK9jHw5JolFm9ryJySzYTnqHDQ85s_q6xeSo1E6lXrCvDIp-8bihSgoZn3pLR2O47k3nhgOQhsRuQeHksOVdeVp8Q=dv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Argo2012Poster.jpg" group-title="VOD2 2010-2019",Argo (2012)
 https://lh3.googleusercontent.com/2tORmycWKlCPTzArZwgvZDh6hgnyRqPlb2dbEXJNuBNX8eC3a_hff6f2SfTZV_oi1L1xfYJQVN_1w2EdUR3QcdNZFx4ndQksbe97fKRRXdt9uOVBPtjVdSCI5SShq5YDeMoQs3tN4w=dv
-#EXTINF:-1 tvg-name"Django Unchained (2012)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Django_Unchained_Poster.jpg" group-title="VOD2 2010-2019",Django Unchained
+#EXTINF:-1 tvg-name"Django Unchained (2012)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Django_Unchained_Poster.jpg" group-title="VOD2 2010-2019",Django Unchained (2012)
 http://dl8.rmdlsv.com/movies/2012/Django%20Unchained/Django.Unchained.2012.Bluray.1080p.mkv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/79404-silver-linings-playbook-f2eXI.jpg" group-title="VOD2 2010-2019",Silver Linings Playbook
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/79404-silver-linings-playbook-f2eXI.jpg" group-title="VOD2 2010-2019",Silver Linings Playbook (2012)
 https://lh3.googleusercontent.com/w6XJTVEcrwSXwkBy0atVD2nUhu6WQhBfGbZvngzKMWP8fElknP2SIcV0z_EPk7qN1YHsU3k2b0gydYr-mLRvYh_M3dK54NhITVA0mUmnsUVYfatspqrWce7dK2rzgtBnLyLZ-BueWQ=dv
-#EXTINF:-1 tvg-ID="" tvg-name="Jack Reacher" tvg-logo="https://i1.wp.com/src1.uno/v1/1243610-jack-reacher-sjcfB.jpg" group-title="VOD2 2010-2019",Jack Reacher
+#EXTINF:-1 tvg-ID="" tvg-name="Jack Reacher" tvg-logo="https://i1.wp.com/src1.uno/v1/1243610-jack-reacher-sjcfB.jpg" group-title="VOD2 2010-2019",Jack Reacher (2012)
 https://lh3.googleusercontent.com/1xrAQiliN89pv_HxPJSNq87hqyKn7VHe4Z0ABrB6DCCpQ7sshECp2z6eBYXPF3_4KZX0iuM8EY61v6muIvxgmG2YIhym6wW7RFMS_1O30SqMvBXMqHUXgp6kYYBz9rNCApY3Q6hnGw=dv
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/988659-season-of-the-witch-Pqx13.jpg" group-title="VOD2 2010-2019",Season of the Witch (2011)
 https://lh3.googleusercontent.com/ecWf8YhAezIBTNRGxZ14R9mZ4Foz2OWRWtcbFCviCul5w1-SEhTNNlb1ZTYufw-L6yBnfM3oEDWi_V6yLmh-labe2y0mhi72twfmaSTFRWaCgP4IGGL-u_j4GdPfVM6MYDftuvpFYQ=dv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/Hugo_Poster.jpg" group-title="VOD2 2010-2019",Hugo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/Hugo_Poster.jpg" group-title="VOD2 2010-2019",Hugo (2011)
 https://lh3.googleusercontent.com/ojhIpOQE3SER2uu3eZ--HVKVjFDiKszhvwNKLwDtnfdVs_MKxEeXoFv35t2e8uH7VRkBxUuXA_B-hcHpzZGmMz3O19xVdxV3cuHqx40zCtskQbQSJAdZzkz9HRRqfNtifKb7qjGkiw=dv
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/1295762-source-code-ajTiY.jpg" group-title="VOD2 2010-2019",Source Code (2011)
 https://lh3.googleusercontent.com/VZGnUt97yci3IELDFLMJxeJvVFOmqxi9ntZHV1A8d71cCQWjgUbTjzrUMCh5D0bcNWOFXTlwDv0PRNMCDtN9rrQLHbDMFXBOfxmzO1tvSqwCI6vgbjxowHQltf84v8tCskDFssCM-A=dv
@@ -830,9 +868,7 @@ https://dl.injaupload.com/film/Movie/2009/The%20Grudge%203%202009/The.Grudge.3.2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMtjxIkEi0hnTV5lPHbgeZ4ZpUZ.jpg" group-title="VOD3 2000-2009",The Human Centepede: First Sequence (2009)		
 https://dl.injaupload.com/film/Movie/2009/The%20Human%20Centipede%20First%20Sequence%202009/The.Human.Centipede.First.Sequence.2009.1080p.BrRip.RARBG.mp4		
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNbyjzhzJVadpWIQPb57ddWWdWI.jpg" group-title="VOD3 2000-2009",The Taking of Pelham 123 (2009)		
-https://dl.injaupload.com/film/Movie/2009/The%20Taking%20of%20Pelham%201%202%203%202009/The.Taking.of.Pelham.1.2.3.2009.1080p.BrRip.Ozlem.mp4		
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5jM5pq78ObAXX1WhTsb115EkLl.jpg" group-title="VOD3 2000-2009",The Twilight Saga: New Moon (2009)	
-https://dl.injaupload.com/film/Movie/2009/The%20Twilight%20Saga%20New%20Moon%202009/The.Twilight.Saga.New.Moon.2009.1080p.BluRay.mp4		
+https://dl.injaupload.com/film/Movie/2009/The%20Taking%20of%20Pelham%201%202%203%202009/The.Taking.of.Pelham.1.2.3.2009.1080p.BrRip.Ozlem.mp4			
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rq96Ihbqb1eU3TEBVtgFlqbeX7.jpg" group-title="VOD3 2000-2009",The Ugly Truth (2009)		
 https://dl.injaupload.com/film/Movie/2009/The%20Ugly%20Truth%202009/The.Ugly.Truth.2009.1080p.BrRip.YIFY.mp4		
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Aw5L42HcyUTEeKNNRqGtoBI7sX.jpg" group-title="VOD3 2000-2009",The Uninvited (2009)		
@@ -876,9 +912,7 @@ https://dl.injaupload.com/film/Movie/2008/The%20Ruins%202008/The.Ruins.2008.1080
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mPBRYOn4hl4151yWhs02ZLEdv9.jpg" group-title="VOD3 2000-2009",Scorpion King Rise of a Warrior (2008)		
 https://dl.injaupload.com/film/Movie/2008/The%20Scorpion%20King%20Rise%20of%20a%20Warrior%202008/The.Scorpion.King.Rise.of.a.Warrior.2008.720p.BrRip.x0r.mkv		
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtaHbrHKUMZQpuyMkMNjGF6lJTF.jpg" group-title="VOD3 2000-2009",The X-Files I WAnt to Believe (2008)		
-https://dl.injaupload.com/film/Movie/2008/The%20X%20Files%20I%20Want%20to%20Believe%202008/The.X.Files.I.Want.to.Believe.2008.720p.BrRip.Ganool.mkv		
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOj6pzDRvi9yPMLPfeCn6qYlim4.jpg" group-title="VOD3 2000-2009",Twilight (2008)		
-https://dl.injaupload.com/film/Movie/2008/Twilight%202008/Twilight.2008.720p.BrRip.MkvCage.mkv		
+https://dl.injaupload.com/film/Movie/2008/The%20X%20Files%20I%20Want%20to%20Believe%202008/The.X.Files.I.Want.to.Believe.2008.720p.BrRip.Ganool.mkv			
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qp0xpheiKwK2ASjX3YUwDPVOzHx.jpg" group-title="VOD3 2000-2009",Vacancy 2: The First Cut (2008)		
 https://dl.injaupload.com/film/Movie/2008/Vacancy%202%20The%20First%20Cut%202008/Vacancy.2.The.First.Cut.2008.720p.WEB-DL.FGT.mkv		
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEfourJfgEyKiewwH8ZkUYt9AqE.jpg" group-title="VOD3 2000-2009",27 Dresses (2008)		
@@ -911,7 +945,7 @@ https://lh3.googleusercontent.com/GSxbPPLVDhFwDr406aO0LFqFTkuSDP-Pb_oHAieZjJcdWl
 https://lh3.googleusercontent.com/-SN7NPQ-_JMd7Bf81S9NQCBu5NGpcGJ6_Ae8j6l4A__vHOMfdY0y5LPNuOhCyIYG8ofbWQvp3VoNSSMTsAbe1X-9UYQEYsVI0cD634679qJdp_akTuG0I-ZQaX4JblU5WspaYL58Sg=dv		
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/910914-next-QMcfL.jpg" group-title="VOD3 2000-2009",Next (2007)		
 https://lh3.googleusercontent.com/WGsiSjg28zNw2cJsuL1D2BMBdiBDU6VoBTIFZOqslzQwKeYti24MSzK6nWNvNjcywG1NX8kNw4MbHkIC0YXOOSFPe1oehYkmZB5Fs5r60TrGuU_nfVDzyCjSnRTlCvrokLCMeoTdDg=dv		
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/989111-i-am-legend-B2jhL.jpg" group-title="VOD3 2000-2009",I Am Legend		
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/989111-i-am-legend-B2jhL.jpg" group-title="VOD3 2000-2009",I Am Legend (2007)	
 https://lh3.googleusercontent.com/KT1CLiOugJsLz4ABFHthiLOONEPxhTI7gdNjgB-LrHDa7SCbKUITTcjVxfxk50SBD-ZKRVmICuqUhbB5eXMNXZdvJT5dqTSrVHqgia2yopgRjuDmz_qwODlOQJ-Oi76HYug7pHLvg9Y=dv				
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/892225-lucky-number-slevin-5PZ2G.jpg" group-title="VOD3 2000-2009",Lucky Number Slevin (2006)		
 https://lh3.googleusercontent.com/V-pxn_hnpLPyzzNWtfRNnGSdJe1jdXo5so4gIVqzMQsw6shYuADhr7TmKTvx6OFWSTrnw2Knvp9hzmNXYG8DREpgh4UNqUzxdNehn3XqdjVUAqCLya6X3k_lP4LMburL-LuOKwsRnoc=dv		
@@ -920,18 +954,14 @@ https://lh3.googleusercontent.com/QMXZgFZoGHGCCYmvRAbqNKasicJD5lpf1P8f09vBUeVD7b
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/929175-invincible-L5M4F.jpg" group-title="VOD3 2000-2009",Invincible (2006)		
 https://lh3.googleusercontent.com/aAafM7gevKAgDITB7tMEnQTcK-lxmrBu6CTYWL5s7G2zQzLIzQox7UQJHbT8TI8d-mKilrtp4_KOplWgtsMFWW7dZCYOs999AO9IplQDQnN7-d-gmrUHCnfw8g3APvGFXyfMg_ETHw=dv		
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/861590-the-departed-cZJEx.jpg" group-title="VOD3 2000-2009",The Departed (2006)		
-https://lh3.googleusercontent.com/GB5zLn7UBy3c5sFSULj_Cv49vAHH7JXZD8aIAyTY3FD3iuCvIuICndGCcHm_Oc3PXS8zz2cdJEvuhUjiJ2pm9-2DRsOT5RMepjL49Dn6kZzTn0DLZFOxLPXXbIs6xbmKkelGdmL_sZU=dv		
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/949037-pans-labyrinth-jq2yc.jpg" group-title="VOD3 2000-2009",Pan's Labyrinth		
-https://lh3.googleusercontent.com/BWCITHsAkScCR8FnRCy6hVXkeNlYwoso8QiPbfN4kyhLT0nYMo2E6YqTYZr3NcNFxf8HoRa0mzh9CayqS9eg7JEqjvPjTL9AVmp96qMn4z656zLXghPA2LQwKQ7IiNZz5WNzQHtxgA=dv		
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/992779-the-prestige-AYAHt.jpg" group-title="VOD3 2000-2009",The Prestige		
-https://lh3.googleusercontent.com/At9Mn6sKDm3xiKNWBDqg350wH3QRKxhsZS0acXQGasTdkUI-zDsYRcws6rsAEj9-2Q7iT4zGiHsxvgAU4kEoTAKCCWQe6ik037Dcj7lRWLKWIwvbrWLY6ZRBAgFKQec8sNKZ59Swtv4=dv		
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/944548-the-pursuit-of-happyness-aUnrg.jpg" group-title="VOD3 2000-2009",The Pursuit of Happyness		
-https://lh3.googleusercontent.com/33oYFmMmwqITTgc8axBoxR7liCJ5_SLWZzod0q0Dd5jPPXNOH_Z9Zgy8DZYiHGyj5TB8ZrVAnf4xWtq45v-ZXl-r0xul6JUQ1o6M-L8z4nOj5jM5mNgAAiupoYday75ooKYSYYnLcfM=dv		
+https://lh3.googleusercontent.com/GB5zLn7UBy3c5sFSULj_Cv49vAHH7JXZD8aIAyTY3FD3iuCvIuICndGCcHm_Oc3PXS8zz2cdJEvuhUjiJ2pm9-2DRsOT5RMepjL49Dn6kZzTn0DLZFOxLPXXbIs6xbmKkelGdmL_sZU=dv				
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/992779-the-prestige-AYAHt.jpg" group-title="VOD3 2000-2009",The Prestige (2006)	
+https://lh3.googleusercontent.com/At9Mn6sKDm3xiKNWBDqg350wH3QRKxhsZS0acXQGasTdkUI-zDsYRcws6rsAEj9-2Q7iT4zGiHsxvgAU4kEoTAKCCWQe6ik037Dcj7lRWLKWIwvbrWLY6ZRBAgFKQec8sNKZ59Swtv4=dv				
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/949037-pans-labyrinth-jq2yc.jpg" group-title="VOD3 2000-2009",Pan's Labyrinth (2006)		
 https://lh3.googleusercontent.com/BWCITHsAkScCR8FnRCy6hVXkeNlYwoso8QiPbfN4kyhLT0nYMo2E6YqTYZr3NcNFxf8HoRa0mzh9CayqS9eg7JEqjvPjTL9AVmp96qMn4z656zLXghPA2LQwKQ7IiNZz5WNzQHtxgA=dv		
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/936516-blood-diamond-9u0J0.jpg" group-title="VOD3 2000-2009",Blood Diamond || ACTION-DRAMA		
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/936516-blood-diamond-9u0J0.jpg" group-title="VOD3 2000-2009",Blood Diamond (2006)		
 https://lh3.googleusercontent.com/96vsc-1LwvLcannY5ACHxBr-tul8FXefENoqWgc7qz7bbxIbMfeMFso831MA2BUKR5QNrbLce3pybqvtkXfHnKfSluGA4Ze7BtToHvE8gfmPJYp9CgX_uxHTrYOJRaMHH_cIYWMIcw=dv		
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/944548-the-pursuit-of-happyness-aUnrg.jpg" group-title="VOD3 2000-2009",The Pursuit of Happyness		
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/944548-the-pursuit-of-happyness-aUnrg.jpg" group-title="VOD3 2000-2009",The Pursuit of Happyness (2006)	
 https://lh3.googleusercontent.com/33oYFmMmwqITTgc8axBoxR7liCJ5_SLWZzod0q0Dd5jPPXNOH_Z9Zgy8DZYiHGyj5TB8ZrVAnf4xWtq45v-ZXl-r0xul6JUQ1o6M-L8z4nOj5jM5mNgAAiupoYday75ooKYSYYnLcfM=dv				
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/766770-cinderella-man-jz8c9.jpg" group-title="VOD3 2000-2009",Cinderella Man (2005)		
 https://lh3.googleusercontent.com/NiRWdIK8SGHmQmZZ--TrHDT0-pA5Uo738y3PCBOU1bL012ki9Us83wivhFF5GIRd_tYPJRvCgMq_3KtYnSf_3tksjaAwyVhWzlSTHDjXxYOrZVCaKkCyrGLezc3I8aTJNZjp-PQoUw=dv		
@@ -941,9 +971,9 @@ https://lh3.googleusercontent.com/qL0Cm92nQEryj1EhR_gW6i507-NWox_yA-x86SjkParjeN
 https://lh3.googleusercontent.com/qL0Cm92nQEryj1EhR_gW6i507-NWox_yA-x86SjkParjeNWoaXPO0woB_cbXMXNLOyLHZ9YVgXvMUf2vsr93mnL1jPp8ZzYjcWdwIIKcwjI2Be4sRG-QTtRbaF-5Ruv91FNVQqrX=dv		
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/781130-constantine-RR-k2.jpg" group-title="VOD3 2000-2009",Constantine (2005)		
 https://lh3.googleusercontent.com/xcoC0Ty9UAx6QS_FzI-Ujcs7XnywSVI5DX1bklw4-zrxvkhC-Rqlz8zuakBHNEiYvl_P3kH7VxnBUkjbjcgzXSu2b47IqF7e8hu9evpda32lLTmAQ87UdTjMdlrudO-jB11KYoJhCg=dv		
-#EXTINF:-1 tvg-ID="" tvg-name="Mr. & Mrs. Smith" tvg-logo="https://i1.wp.com/src1.uno/v1/774667-mr-mrs-smith-jDsFf.jpg" group-title="VOD3 2000-2009",Mr. & Mrs. Smith		
+#EXTINF:-1 tvg-ID="" tvg-name="Mr. & Mrs. Smith" tvg-logo="https://i1.wp.com/src1.uno/v1/774667-mr-mrs-smith-jDsFf.jpg" group-title="VOD3 2000-2009",Mr. & Mrs. Smith (2005)	
 https://lh3.googleusercontent.com/qIIOZaaZCib4_yyGYTQC1MjhyeUTIEgFgLlpQUfLEDn90YjMCYb9DRbRd8o8daReuePRuud582gjxozklR-IVXozelho9-fuZvKEb9EdVY8FYMkV5MkgQeHnpjGNoZt7gPKnmtKwKw=dv		
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/781571-king-kong-JWBeL.jpg" group-title="VOD3 2000-2009",King Kong		
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/781571-king-kong-JWBeL.jpg" group-title="VOD3 2000-2009",King Kong (2005)	
 https://lh3.googleusercontent.com/lwrJW49yYN8O1uVhPwQb1beCPPzipgqmrM5U-ATy95b4-US_0gDYt23iwriMl7FaKJ3aPZGAL6Hs3DR2Qzb9n1PaNR9so8Z-YMuq4JxLQCuTeyWD9Qff7HfaO1pn3ornEU2Gw4bnrC4=dv		
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/846418-the-island-xIDU8.jpg" group-title="VOD3 2000-2009",The Island (2005)		
 https://lh3.googleusercontent.com/wdngWI5BtAIqfe8NHA3lcoiIK_WiLWkSoZ7AnBBvEWSpIcCye3E5cjdsiAUNkeotNZ8PiyENZt7CFVoocN450AsSvLkKbE-zTvZZ3clMB5zMlYKJu0n_Cy_S91VJpLqw1wTvhogItA=dv		
@@ -963,7 +993,7 @@ https://dl.injaupload.com/film/Movie/2005/Hide%20and%20Seek%202005/Hide.and.Seek
 https://dl.injaupload.com/film/Movie/2005/House%20of%20Wax%202005/House.of.Wax.2005.1080p.BluRay.YIFY.mp4		
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AqoHLDESjjZoklwH9VeUjaliHZ6.jpg" group-title="VOD3 2000-2009",Jarhead (2005)	
 https://dl.injaupload.com/film/Movie/2005/Jarhead%202005/Jarhead.2005.1080p.BrRip.YIFY.mp4		
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xFo2blB62a5ljXLhiJyXiPrDGTz.jpg" group-title="VOD3 2000-2009",Kingdom of Heaven	 (2005)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xFo2blB62a5ljXLhiJyXiPrDGTz.jpg" group-title="VOD3 2000-2009",Kingdom of Heaven (2005)
 https://dl.injaupload.com/film/Movie/2005/Kingdom%20of%20Heaven%202005/Kingdom.of.Heaven.2005.Directors.Cut.1080p.BrRip.Ganool.mkv		
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3zGo7hsEMRKZiEGO1PVBhq5p2lw.jpg" group-title="VOD3 2000-2009",Nomad the Warrior (2005)		
 https://dl.injaupload.com/film/Movie/2005/Nomad%20The%20Warrior%202005/Nomad.The.Warrior.2005.720p.BrRip.Unknown.mkv		
@@ -985,13 +1015,13 @@ https://lh3.googleusercontent.com/7Z9ApGzS2jYWNleQBhrrlWfaYVcWU_7NVZi7PujVPLqpmU
 https://lh3.googleusercontent.com/m35sbDWyCdFmVSDNAd56gMsgtGjYlR6E2kOmbuwytLZqoqJ_v7QvRBYHD5pFCYzj8QIn0U8dO8qmZj9NFcOQlZ9kghJZBKhPnpSU6YWa0bpryL6t7zcJcsMq5keEaLjJri5z_ZLF8z4=dv		
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/742244-van-helsing-Y4ZZ5.jpg" group-title="VOD3 2000-2009",Van Helsing (2004)		
 https://lh3.googleusercontent.com/_A-kFfusK_JszmYzoRrWmP1ctokQPiNK8v9Ni4qYt4Srz6wBYhioo0d-TJuyypPfYNqMSU8vYcFLin_62oOyjDTCIlsd8UNPLJM_4e3d5x9R3QharrLBPm4pQ_ED3HIOH14vaK9zTg=dv		
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/751425-i-robot-SpQi6.jpg" group-title="VOD3 2000-2009",I, Robot		
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/751425-i-robot-SpQi6.jpg" group-title="VOD3 2000-2009",I. Robot (2004)
 https://lh3.googleusercontent.com/6_xxJ6BcW1ki-F8ohO_tb8mpX3i0zmgw9VA74xffb5iivkvF3SUkwyOY-eSh_MHyjzMvXGllf3fVCLgnyTVcHLC533VRa1Lnz4EtOaH4wyqTSFirpEnOoyrIRyWjMnRQzUyp3mNZRw=dv		
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/727922-troy-4LOVq.jpg" group-title="VOD3 2000-2009",Troy		
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/727922-troy-4LOVq.jpg" group-title="VOD3 2000-2009",Troy (2004)
 https://lh3.googleusercontent.com/HQOrqWHushb6Lo-uvl11BjPubAH_o5d5JYfo1TXBAww2Bx61PVXh1fgzkR2KADjEYWm0fp-vKMJ7f1rEdrh2ZrNQMRhFBvPVQvvIGwNQilLqzakqg4_PO2vEYnOQj0bx-ubLSYPOBQ=dv		
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/727445-the-notebook-AQB0n.jpg" group-title="VOD3 2000-2009",The Notebook-DRAMA		
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/727445-the-notebook-AQB0n.jpg" group-title="VOD3 2000-2009",The Notebook (2014)	
 https://lh3.googleusercontent.com/rncmVs1wOHIn5iOJlv9IlUidIvhduyQe_N7ht6UCRB2Kvxo7s_CcxuAsCIrJCZEh-Qf5pDTE2R5bddBAOafa0u79gZCV7SNpAxw01krcrGD7Io5kI7rM0DFbD1FdhApnJ_LUoa0QFg=dv		
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/692921-the-day-after-tomorrow-khEaS.jpg" group-title="VOD3 2000-2009",The Day After Tomorrow		
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/692921-the-day-after-tomorrow-khEaS.jpg" group-title="VOD3 2000-2009",The Day After Tomorrow (2004)
 https://lh3.googleusercontent.com/irOhYaQyv_Ph35C0ZKifkLQLPgeVT4G_p_wmjf-vlYps1IgeGBtd0Iw4c7uLl2bzsUzaC1w7ULV2KjlEywI78C7_OVzC-0ciYSirsIujnV0OV98IngslliyuOIXgKBP9Acp1VReCQiY=dv				
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iNZdSIfhSCMtRILDNyhLn8UKeSG.jpg" group-title="VOD3 2000-2009",13 Going on 30 (2004)		
 https://dl.injaupload.com/film/Movie/2004/13%20Going%20on%2030%202004/13.Going.on.30.2004.1080p.BrRip.YIFY.mp4		
@@ -1023,7 +1053,7 @@ https://dl.injaupload.com/film/Movie/2004/Spartan%202004/Spartan.2004.1080p.BrRi
 https://dl.injaupload.com/film/Movie/2004/Starship%20Troopers%202%20Hero%20of%20the%20Federation%202004/Starship.Troopers.2.Hero.of.the.Federation.2004.1080p.BrRip.RARBG.mp4		
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v5vUoDRG5azfAsoKEhT2DqpEjnh.jpg" group-title="VOD3 2000-2009",The Grudge (2004)		
 https://dl.injaupload.com/film/Movie/2004/The%20Grudge%202004/The.Grudge.2004.UNRATED.1080p.BrRip.5.1CH.Ganool.mkv		
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7xlG6nKktCUV0dtpyoGSIJmJBh5.jpg" group-title="VOD3 2000-2009",The MAnchurian Candidate (2004)		
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7xlG6nKktCUV0dtpyoGSIJmJBh5.jpg" group-title="VOD3 2000-2009",The Manchurian Candidate (2004)		
 https://dl.injaupload.com/film/Movie/2004/The%20Manchurian%20Candidate%202004/The.Manchurian.Candidate.2004.1080p.BrRip.RARBG.mp4		
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q4BAu7ksjFISEKMGmFjrxZK9cDg.jpg" group-title="VOD3 2000-2009",The Princess Diaries 2: The Royal Engagement (2004)		
 https://dl.injaupload.com/film/Movie/2004/The%20Princess%20Diaries%202%20Royal%20Engagement%202004/The.Princess.Diaries.2.Royal.Engagement.2004.1080p.BrRip.YIFY.mp4		
@@ -1067,7 +1097,7 @@ https://lh3.googleusercontent.com/oePFDy45TGRydt2wKf_wLC14xaP0mVIJCvF76jLIDWM3Io
 https://lh3.googleusercontent.com/i1lH1u1guPojni4LzEldFg9s_AWaPV0wOwFOQf4FqK6E9nVHLE5QkvdVkCjBQr5JxInJ-LjlWPyOXSu2IkKg2mYlvcKsnCHC4kd8vyxMofQkY6Ot9wV652wX1BKMS_y_rt0LxIa2DA=dv		
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/617724-red-dragon-vhVOQ.jpg" group-title="VOD3 2000-2009",Red Dragon (2002)		
 https://lh3.googleusercontent.com/1MxHgW2_-lptjVvzKdvrNX-zS-X2-NguN-i8fcW9ixZnfdsyN_mlJ_9OZn_tHoQDwLkSkNwkSy06B2WL6qNZ46kgM-TB7EdtkeRVxz6SeL_Gw9Fq7vQwGXBufvnBvgVZQAdYOxEOsA=dv		
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/405065-minority-report-W2P-J.jpg" group-title="VOD3 2000-2009",Minority Report || ACTION-SCI-FICTION		
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/405065-minority-report-W2P-J.jpg" group-title="VOD3 2000-2009",Minority Report (2002)		
 https://lh3.googleusercontent.com/Pujm5buIv0RpsVgidkMorehT4bgGlIXnazPjLf5ctFt6MHoepN0bmcj1GE0PwZNq97CJds-5B6NYURAg1eZxf1FWRldLAxNbibiow5efNud9x00XeKTNEFwM3pSENSdVbyQk5tg-V5w=dv		
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg" group-title="VOD3 2000-2009",Catch Me If You Can (2002)	
 https://lh3.googleusercontent.com/t9oa6KJOjgvH-QKz-VV0I9cyTWIQUIpXcz1yohuhVWzMfIQkMlBa-aK_kWDdnMfTDq7Gea0w221UeTv7PuOZru4KipNwXQ2Uzfjcatr3K5w2Q6YsaWdBui2z7zTBRKFubjEfkFckzsE=dv		
@@ -1100,9 +1130,7 @@ https://dl.injaupload.com/film/Movie/2002/Carrie%202002/Carrie.2002.1080p.BrRip.
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ul15FIKIJgeBFkvUO7A02a6Ye6L.jpg" group-title="VOD3 2000-2009",No Good Deed (2002)		
 https://dl.injaupload.com/film/Movie/2002/No%20Good%20Deed%202002/No.Good.Deed.2002.1080p.BrRip.YIFY.mp4		
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4MMpvQYgOz8K6lzlIVMXWjLzUPC.jpg" group-title="VOD3 2000-2009",Queen of the Damned (2002)
-https://dl.injaupload.com/film/Movie/2002/Queen%20of%20the%20Damned%202002/Queen.of.the.Damned.2002.1080p.BrRip.YIFY.mp4		
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zosutiDbNg0aiSgxxKXbp4H4gob.jpg" group-title="VOD3 2000-2009",Reign of Fire (2002)		
-https://dl.injaupload.com/film/Movie/2002/Reign%20of%20Fire%202002/Reign.of.Fire.2002.1080p.BrRip.YIFY.mp4						
+https://dl.injaupload.com/film/Movie/2002/Queen%20of%20the%20Damned%202002/Queen.of.the.Damned.2002.1080p.BrRip.YIFY.mp4								
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rIPJRJZGleNaK1kfHBaFbGZ675m.jpg" group-title="VOD3 2000-2009",Snow Dogs (2002)		
 https://dl.injaupload.com/film/Movie/2002/Snow%20Dogs%202002/Snow.Dogs.2002.1080p.BrRip.YIFY.mp4		
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vSiQTLKilSEBoEyE9LdxWkURZqh.jpg" group-title="VOD3 2000-2009",So Close (2002)		
@@ -1189,9 +1217,9 @@ https://lh3.googleusercontent.com/_we9HM7Iek9VHWH3Y8qBvG294fHQS3Fq9lnrHLutqQUjs1
 https://lh3.googleusercontent.com/-zlVBTwbScCxKYTUWLvsOhDCal3aE5fm_ZEB8nlzax-As_TYP_vO1njGBvVjjDd8EGNzWey79cPPoHCZMzQy6DsXPfbdI9K1KeuL_FHEmqez9LU90fr9xrHvmbLH_tVLb_6shtDs-w=dv		
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pRn3TJHbAqCAO6U8Dw5DayVUuX3.jpg" group-title="VOD3 2000-2009",Gladiator (2000)	
 https://lh3.googleusercontent.com/7Q2eTeryIHegAlGC83nSGANrhTfkoEOSf-KO5GvUGStUUe31gvKaFW_Jd65T0ghqxbGE5VjDOLOX9KAy6B23dz8jbkzsg6B9H0UemdI9gvCkzmHTlJhRcaCjF3ugn1iBBPC11a8rK4Y=dv		
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/373503-cast-away-DjDE-.jpg" group-title="VOD3 2000-2009",Cast Away || ACTION-DRAMA		
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/373503-cast-away-DjDE-.jpg" group-title="VOD3 2000-2009",Cast Away (2000)
 https://lh3.googleusercontent.com/ggZnYm6rCFp_4Laacj0Y5eS2CsVSdCq_bFSpqntVFByuSMO3ol3Lrfg_QyIYSN_Jfxo-qMwuXKYO60MpnrvgRY6BqGYtuwcN3GO5JlCRn4Jeg2LivLNc9FgOWg36Wh8eHykcMUJqgg=dv		
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uprP8rtOgMYJQ2h3ldDFvGsaBgH.jpg" group-title="VOD3 2000-2009",Memento		
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uprP8rtOgMYJQ2h3ldDFvGsaBgH.jpg" group-title="VOD3 2000-2009",Memento (2000)	
 https://lh3.googleusercontent.com/CseO0BelBzTn1mFOQZu3lzzK8QUp8yWsLx_c4Fwfza6INcXNDIDeIbshx1Vp30gprjeoyLJk0WOCdgkGfWrFMHkB4tCAXVDASJWlxoFKFs9_fKP02_kgB7rTh5JgUlmtoeAHA4oyD5A=dv		
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/p3nIrS9rkdVmMmgKAWtGsmAnhGV.jpg" group-title="VOD3 2000-2009",Coyote Ugly (2000)		
 https://dl.injaupload.com/film/Movie/2000/Coyote%20Ugly%202000/Coyote.Ugly.2000.1080p.BrRip.YIFY.mp4		
@@ -1249,21 +1277,21 @@ https://lh3.googleusercontent.com/U0hZYgvK19sq0wPXBltmAvYjpbixL9J6rb_ajKJrDjBbTD
 https://lh3.googleusercontent.com/F_QDb3NKgOKt5xY0n1DA5gaavD_7p8SS1thpRdCNpPBbFLzak4nFEqXNeq6rpzNhFeEYjcEoin5KL1kY1zniPKPHgr1itTsWoLeEGN7mIogih5gunhh9C6fYqALyX7x4r7wnANF25w=dv
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/325404-8mm-8FBF0.jpg" group-title="VOD4 1990-1999",8MM (1999)
 https://lh3.googleusercontent.com/4Zm4Wz_38U39CxLi0DjzI7-YG5seWVUVG5cv-1DynWPnARCQqKHbUAAZ_Q6cHXu8c-ZeGIa29_uahvAEZGygCAwYTLXRGZMi7N0ieuEPmyRQcR40Eo5-9FsBS0ieIfGY7I75ZxPnAA=dv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg" group-title="VOD4 1990-1999",Fight Club
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg" group-title="VOD4 1990-1999",Fight Club (1999)
 https://lh3.googleusercontent.com/ai-u36kG_ShXb3Ytp5YHrp--nsCdylwBe4L9lk5hOnZj9K1j1qCHbddCbcPvGFXUSFSrP3_jtcZ6X1jkCNe_WeQo_0NjGLbOHlBSAhQ2szx-WHAm89D_jKtSGyIJx-Y_exl05lU3o2U=dv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/382421-the-sixth-sense-nYPNB.jpg" group-title="VOD4 1990-1999",The Sixth Sense
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/382421-the-sixth-sense-nYPNB.jpg" group-title="VOD4 1990-1999",The Sixth Sense (1999)
 https://lh3.googleusercontent.com/bMu0CoTEwqOlZu9fpzEXyx2qdXx3YMz0bVwPJjhQPBGC7OfGvnin_NM9QFh23DZc9Y3VLbN_v38F9hEnCDk-lqxrCccl0UNjuFLQTMiqttzcfSVBV4DX3CEYWURdu_7-RaHqzLB61Q=dv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/260357-the-green-mile-GEjr0.jpg" group-title="VOD4 1990-1999",The Green Mile
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/260357-the-green-mile-GEjr0.jpg" group-title="VOD4 1990-1999",The Green Mile (1999)
 https://lh3.googleusercontent.com/F0QrzIOnnhdT9D71-nNSY4DKAOZ4ENgtxRKBS77vYRNEWTRQugZdML2fmHxrR1yfX5B5eFYbp0ph006V8087NDMY3jgbE3Iowmkml_De4oN4DqDK_Q5bPrQVfIIuxdci6zEofaT-C6U=dv
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/324585-the-faculty-OX5Nm.jpg" group-title="VOD4 1990-1999",The Faculty (1998)
 https://lh3.googleusercontent.com/H-Dh7JtZxXo4UWK_Ozh9boXdTXbFFMM8z8HgoqeOwyVOoaP8nVwcIeb-EPXjc7NQgeYrwG1WPuGCGkTAxETpU7qtmx_9SBfHLtd0ONd0Tnp8GTw51e7ZjbegZJU-W3RGGiWe_Rbhww=dv
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/304039-six-days-seven-nights-jeIfX.jpg" group-title="VOD4 1990-1999",Six Days Seven Nights (1998)
 https://lh3.googleusercontent.com/3ziKSGKrVSkFPKcrUoEFxi5cmcXpHzEko04NidQ6MlVHIu1OKx5x1aeODRN66aHoJB7osEATMZEage9rl9JzbY3Gcs9PWMTuu63E9jX1SucOq8hhzmM0Ed5i98rLB3ZQdQYY7CoVZzQ=dv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/260052-armageddon-sem4a.jpg" group-title="VOD4 1990-1999",Armageddon
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/260052-armageddon-sem4a.jpg" group-title="VOD4 1990-1999",Armageddon (1998)
 https://lh3.googleusercontent.com/Ql4-vuz1sPGSNv8w45XdCyIKsu4woY72RsnfZyyu1hX7BnhBVY9TzECeqMqFATGI2O4wC62jo-6npgKJ-BOzSdRbIiiRB0255XjHO8hhCj9hLPdvZqfBDAqJNe4cls9oIBMxO12MZQ=dv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/304029-saving-private-ryan-n_dSh.jpg" group-title="VOD4 1990-1999",Saving Private Ryan
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/304029-saving-private-ryan-n_dSh.jpg" group-title="VOD4 1990-1999",Saving Private Ryan (1998)
 https://lh3.googleusercontent.com/XsTaHyubxlfy13BwSCYOpzkfUfFKTl93JuYwxE50xAzMf07N6DeYFRDhlmfWhVdqI8h5gvCMGr6jtViRB9azJqwXfFZuDUAITK0NH2PUBtAZ-wQgk-GQTKAhHBmY9tp5SJdIouI7H8Y=dv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuzxpUjHsbQJXV3kB9ZAdCimM60.jpg" group-title="VOD4 1990-1999",City of Angels-FANTASY
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuzxpUjHsbQJXV3kB9ZAdCimM60.jpg" group-title="VOD4 1990-1999",City of Angels (1998)
 https://lh3.googleusercontent.com/rfj-MgyNR07GE0SLI6jAy6u5gh54FfNvwRuqtWIDhvh3eG0t2-UnXz3qf9Sr_LtQNIiDP_uBHFi86SP_E9sL2KvLsPEALk3PCRXDJKtS6VNj8t4Be9YGmshpiy9BdBY5EFzAffnQIw=dv
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/257845-the-jackal-8NVve.jpg" group-title="VOD4 1990-1999",The Jackal (1997)
 https://lh3.googleusercontent.com/NsEVxAxOOaufI8q7o02xyOFbuF5JRfRoC_VRTT4pgd83sHOmWbktwSlLgbYoWCZsIvmFwocpdJ5XFf_80UfjoPadTZ9kDXrcn-JJIJ2vYitVg7M-44J_ROhujx530VFVDpn7UGMCgoY=dv
@@ -1277,13 +1305,13 @@ https://lh3.googleusercontent.com/Hp74Cyz3dDRzNBCpEPj7WGU3Vee66LSCqYxQasUK57nw70
 https://lh3.googleusercontent.com/BuFnvR3A5lvaAg8VlhQVE022JHFADxRzO7DOwA7A3MHBXvQGo4mZmoVuuLlfyqlQl33Vt20KxDGS6XXW6jF-MP1PoP0IvIKn9mgWcSxoDuYPQKSBBCXOduGPNW0uD-tLgkEBHAHLiQ=dv
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/259629-titanic-yx0XB.jpg" group-title="VOD4 1990-1999",Titanic (1997)
 https://lh3.googleusercontent.com/eobR_7hIf3hPnsghMKU55pBtnFKuRM1pp8-WsCXtZ72VOKU2Kjcyap6zGwlMJbZ5XIISnyc8ImN2iYOI9OHtBG1C05hlMbvIcleqJR0SyMQBJ4HJEywgY8MrcDW4rhODYPPu1pUAnoo=dv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/257278-the-fifth-element-dfQjz.jpg" group-title="VOD4 1990-1999",The Fifth Element
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/257278-the-fifth-element-dfQjz.jpg" group-title="VOD4 1990-1999",The Fifth Element (1997)
 https://lh3.googleusercontent.com/yblMZqG986LCWRFZ3uPj1HnufVqDG6MLWn320MCOrg7iDcoFTXJzLyIo_l52_vzxlxHF8AzjrGWS1O0MQjsCNLt_cwyO8QqdgD3Pr1B9bfiDfLfHcuX7P2Y4jJLpRlxjslLW6qqdYOU=dv
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/254249-ransom-A9Sq3.jpg" group-title="VOD4 1990-1999",Ransom (1996)
 https://lh3.googleusercontent.com/gapw_kuSNUJba-bqFcbMirI6Vtz7zdY8T4xac8T1qRgao_-3Az92_BhAJhnx6BRADVpOrjY7FXngwqZoruJYXEFljgOpgQ-rLZpJVd5lAfnNX_4yWCKcDUUy-klvj6kJkK3J3kIf6g=dv
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/254428-the-rock-wGJHF.jpg" group-title="VOD4 1990-1999",The Rock (1996)
 https://lh3.googleusercontent.com/_l-TgUrFmVpqOI9jRdPfuynUqt9QL5OOungD6O_tCA4BMmKfaAgxw8SMukmvFmXZ5646nSOPVnFnFyEICR80XgVFKyoXYbxlNWKDKeW-4GfmtLsCsvmnELEst1hFVHRusIhjxv4G8Q=dv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/Heatposter.jpg" group-title="VOD4 1990-1999",Heat
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/Heatposter.jpg" group-title="VOD4 1990-1999",Heat (1995)
 https://lh3.googleusercontent.com/3cixmgfreW1yptHw84xzI834UG3G3VKQOJ31DbE8YlRltzGsjL3esPMkp4_Oew_Jbg9tdSra47NxPZFOvAy3l2sBNvkpqyRXmZeLdE5Dgas--__Jua0FWkmmcE6seGBvRG7Iap8zIAs=dv
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/240083-clear-and-present-danger-FAS1u.jpg" group-title="VOD4 1990-1999",Clear and Present Danger (1994)
 https://lh3.googleusercontent.com/vJ3bBpHRAQQze3GdXpK6wmUhdeM0JuUp3Wr3Bh6taE9Wy1rZHcMT391NVig6tqx3a0x-MVPxQ-CoVknFPOmvBrbemErK-VDNxGKDSo7URcAa3oLEFhs0jwcqmIxuB3iW-_hNtbsrjQ=dv
@@ -1293,7 +1321,7 @@ https://lh3.googleusercontent.com/CjvxMIgMq4LoUbJY3mlMYTXO2UmtZnSOKILMRWfAathMCU
 https://lh3.googleusercontent.com/eTgbIIVIJvEj5FEDI_K-eYhhuLpbWdWsoHSfkeMuizvgkJzBHG09tYn4WZvn7jwRW9Vw3W-4Jbh-glKrjsNa4SZsJticXEJTx1kRCp5pTHlDtDAQjo0rC_vEAonDGWWGiTX1pizeXg=dv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Forrest_Gump_poster.jpg/220px-Forrest_Gump_poster.jpg" group-title="VOD4 1990-1999",Forrest Gump (1994)
 https://lh3.googleusercontent.com/scHEnXHO7VySbzJVUKN0l3cFNKehjqesnvJlYIqYf-ly1rlirx9oIvwkn3-3GX2DhCwMceqOgkME9iGEnwb0eh2OmY0l5NH-KnSeMNnM3hVfJ01h30KmClgIqovuexdpMiVbBukbnu8=dv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg" group-title="VOD4 1990-1999",Ace Ventura: The Pet Detective || FAMILY-COMEDY
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg" group-title="VOD4 1990-1999",Ace Ventura: The Pet Detective (1994)
 https://www.dlb3d.top/M/Ace%20Ventura%20Pet%20Detective%201994/Ace.Ventura.Pet.Detective.1994.1080p.BluRay.x264.YIFY.mp4
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/236592-the-fugitive-kX_kg.jpg" group-title="VOD4 1990-1999",The Fugitive (1993)
 https://lh3.googleusercontent.com/X_Q84BsLHK6dAEf4iHTwYwv_HvzOkWUJZtwUDWCmeg8sudUhJPS3sBK94BuCQDj6NstMLm2fOmhP7kfqpuhvxpX0PADw-0bJyhaIG6EVWyI_uug6EIbFy3R8ewTX_OTaHcvFTuFuCTE=dv
@@ -1307,23 +1335,23 @@ https://lh3.googleusercontent.com/aNUmt_CAhEARB4sIV0ggnvcIWBUy_g1HnZG50j-baVSe_0
 https://lh3.googleusercontent.com/QoqFpu08j4DqpzLlrkXaWT0NXPgryzEo1gknbMv5PS2KniW9F89mkcjDahtk5bH_VzQOHogiCfcrWB9rENwMi33tH7ovAVhndXUuFttKspJ_oXB5iJxPOQFVFVf2E_Zd_GpTB0tGaxg=dv
 #EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/225446-total-recall-F22r9.jpg" group-title="VOD4 1990-1999",Total Recall (1990)
 https://lh3.googleusercontent.com/dfGxHzYK_PX-HcWhjxvjsXqBvsVTFqGsnbuBuSqiaU5IbcChRMQl8t1e2qw8jcU-n-vT1jvZh96aJx44TUqdM3A-WNEOJxFlvU68L4xVIyHK-JfdQIubAdLr2zfwZmHbFAULzDMePO4=dv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9RaPHov8oM5cnzeE27isnFMsvS.jpg" group-title="VOD4 1990-1999",Ghost
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9RaPHov8oM5cnzeE27isnFMsvS.jpg" group-title="VOD4 1990-1999",Ghost (1990)
 https://dl.injaupload.com/film/Movie/1990/Ghost%201990/Ghost.1990.1080p.Bluray.ETRG.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Hard_To_Kill.jpg/220px-Hard_To_Kill.jpg" group-title="VOD4 1990-1999",Hard to Kill
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Hard_To_Kill.jpg/220px-Hard_To_Kill.jpg" group-title="VOD4 1990-1999",Hard to Kill (1990)
 https://dl.injaupload.com/film/Movie/1990/Hard%20to%20Kill%201990/Hard.to.Kill.1990.720p.BrRip.Unknown.mkv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Kindergarten_Cop_film.jpg/220px-Kindergarten_Cop_film.jpg" group-title="VOD4 1990-1999",Kindergaten Cop
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Kindergarten_Cop_film.jpg/220px-Kindergarten_Cop_film.jpg" group-title="VOD4 1990-1999",Kindergaten Cop (1990)
 https://dl.injaupload.com/film/Movie/1990/Kindergarten%20Cop%201990/Kindergarten.Cop.1990.1080p.BrRip.YIFY.mp4
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Leatherface:_The_Texas_Chainsaw_Massacre_III#/media/File:TCM3.jpg" group-title="VOD4 1990-1999",Leatherface: Texas Chainsaw Massacre
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Leatherface:_The_Texas_Chainsaw_Massacre_III#/media/File:TCM3.jpg" group-title="VOD4 1990-1999",Leatherface: Texas Chainsaw Massacre (1990)
 https://dl.injaupload.com/film/Movie/1990/Leatherface%20Texas%20Chainsaw%20Massacre%20III%201990/Leatherface.Texas.Chainsaw.Massacre.III.1990.1080p.WEB-DL.FGT.mkv
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Maniac_Cop_2#/media/File:Maniacop2pos1.jpg" group-title="VOD4 1990-1999",Maniac Cop
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Maniac_Cop_2#/media/File:Maniacop2pos1.jpg" group-title="VOD4 1990-1999",Maniac Cop (1990)
 https://dl.injaupload.com/film/Movie/1990/Maniac%20Cop%202%201990/Maniac.Cop.2.1990.1080p.BrRip.RARBG.mp4
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/The_NeverEnding_Story_II:_The_Next_Chapter#/media/File:Neverending_story_two_poster.jpg" group-title="VOD4 1990-1999",Never Ending Story 2: The Next Chapter
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/The_NeverEnding_Story_II:_The_Next_Chapter#/media/File:Neverending_story_two_poster.jpg" group-title="VOD4 1990-1999",Never Ending Story 2: The Next Chapter (1990)
 https://dl.injaupload.com/film/Movie/1990/The%20Neverending%20Story%20II%20The%20Next%20Chapter%201990/The.Neverending.Story.II.The.Next.Chapter.1990.1080p.BrRip.YIFY.mp4
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/The_Exorcist#/media/File:Exorcist_ver2.jpg" group-title="VOD4 1990-1999",The Exorcist III
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/The_Exorcist#/media/File:Exorcist_ver2.jpg" group-title="VOD4 1990-1999",The Exorcist III (1990)
 https://dl.injaupload.com/film/Movie/1990/The%20Exorcist%20III%201990/The.Exorcist.III.1990.1080p.BrRip.Ganool.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jKi5Q1kd6azoGI6hUJh0p0RxSmu.jpg" group-title="VOD4 1990-1999",Teenage Mutant Ninja Turtles
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jKi5Q1kd6azoGI6hUJh0p0RxSmu.jpg" group-title="VOD4 1990-1999",Teenage Mutant Ninja Turtles (1990)
 https://dl.injaupload.com/film/Movie/1990/Teenage%20Mutant%20Ninja%20Turtles%201990/Teenage.Mutant.Ninja.Turtles.1990.1080p.BrRip.RARBG.mp4
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/RoboCop_2#/media/File:Robo2poster.png" group-title="VOD4 1990-1999",Robo Cop 2
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/RoboCop_2#/media/File:Robo2poster.png" group-title="VOD4 1990-1999",Robo Cop 2 (1990)
 https://dl.injaupload.com/film/Movie/1990/RoboCop%202%201990/RoboCop.2.1990.1080p.BrRip.Ganool.mkv
 #
 #
@@ -1333,7 +1361,7 @@ https://dl.injaupload.com/film/Movie/1990/RoboCop%202%201990/RoboCop.2.1990.1080
 https://lh3.googleusercontent.com/rWGe6IALRDd3_bMaDZ5nQi8sx8d_dlupUIHtPpW8X6umsMwKxGlvhsrnAWk74S695GUAVtev7eBC4UrfoJCq8Af4mXMiHbYCTbslFUOMVjRIarvlOK0eMxm6rTHp3EmSsYCPNHv8P2w=dv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/r31djHVfrGqOhTan4ov6HTCA7lr.jpg" group-title="VOD5 1980-1989",Once Upon a Time in America (1984)
 https://lh3.googleusercontent.com/TOwZoFD6Fd6xH9bD-jQSiZ_RGFRKqDFeg25iDq6aUQym8iC4O3yN_Qm3yAPTLT5s9GE6fV_CBWJSAchcvQ-wDGD5Qf9BDOoWqS8Ivk7OOE8QW9pqJdy5jIp1JEqF48PYaFUkUwsr_g=dv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/185726-et-the-extraterrestrial-4CFoU.jpg" group-title="VOD5 1980-1989",E.T. The Extra-Terrestrial 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/185726-et-the-extraterrestrial-4CFoU.jpg" group-title="VOD5 1980-1989",E.T. The Extra-Terrestrial (1982)
 https://lh3.googleusercontent.com/2yKXAJl50ySkEVPxmL2pSeM_2JnPrOtPgniGzCGrGSyiczBuPr9GoWiB95CorbUab5c-g6mfJjS0HLN9DdrTonwnKaJ-6j9hFd-NqLVxIEULz3c-XBGuEeVTxWW5N0_FpWxcD4N07mQ=dv
-#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/185288-blade-runner-NJ-c_.jpg" group-title="VOD5 1980-1989",Blade Runner
+#EXTINF:-1 tvg-logo="https://i1.wp.com/src1.uno/v1/185288-blade-runner-NJ-c_.jpg" group-title="VOD5 1980-1989",Blade Runner (1982)
 https://lh3.googleusercontent.com/iWjWuHJpON-j2d1K8x9OaMPO3BlS-njoXkVk2aouU9unBrcEMGz0l-MEEbg9l3s9LrqBacICjnpVw0CGFz_wRG4Wpv5vaG3cxOoG6z9-_C77qaGTv3bU6WG8-WpEzCgKlH4w7BpKiH8=dv
