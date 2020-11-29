@@ -1,60 +1,63 @@
 ﻿#EXTM3U#
-#EXTINF:-1 tvg-logo="" group-title="LATEST MOVIES",
+#EXTINF:-1 tvg-logo="" group-title="VOD1 2020",
 #EXTINF:-1 tvg-logo="" group-title="VOD1 2020",
 #EXTINF:-1 tvg-logo="" group-title="VOD2 2010-2019",
 #EXTINF:-1 tvg-logo="" group-title="VOD3 2000-2009",
 #EXTINF:-1 tvg-logo="" group-title="VOD4 1990-1999",
 #EXTINF:-1 tvg-logo="" group-title="VOD5 RELIGIOUS MOVIES",
 #EXTINF:-1 tvg-logo="" group-title="VOD6 KIDS & ANIMATION",
-##########LATEST MOVIES##################################
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sY6QUbSVTpTCBX1HarPtK7DwlMh.jpg" group-title="LATEST MOVIES",Let Him Go (2020)
-http://dl.gemovies.ir/film/Let%20Him%20Go%202020/ORG/Let.Him.Go.2020.720p.WEB-DL.x265.PSA.Gemovies.ir.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cxtwDFKYyj4EuS95zpGfap9yZiP.jpg" group-title="LATEST MOVIES",The Princess Switch: Switched Again (2020)
-http://s27.bitdl.ir/Movies/The.Princess.Switch.Switched.Again.2020/The.Princess.Switch.Switched.Again.2020.720p.WEBRip.x264.AAC-YIFY.Bia2HD.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mKTsBAxEwWAQwRyPey8txjwiYFS.jpg" group-title="LATEST MOVIES",The Nest (2020)
-http://s27.bitdl.ir/Movies/The.Nest.2020/The.Nest.2020.720p.WEBRip.x264.AAC-YIFY.Bia2HD.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1e6EJVJjRrhiU5BzK3LnzmbsMC0.jpg" group-title="LATEST MOVIES",Playhouse (2020)
-http://dl10.dlfars.pw/b7/film5/Playhouse.2020.720p.WEB-DL.YTS.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/DMFFdPfagw8DzH2Nx3RblhlrW1.jpg" group-title="LATEST MOVIES",Loco (2020)
-http://dl10.dlfars.pw/b7/film5/Loco.2020.720p.WEB-DL.YTS.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2II4PqG4784F3VM8RYKsUkKtlv9.jpg" group-title="LATEST MOVIES",Blindfire (2020)
-http://dl10.dlfars.pw/b7/film5/Blindfire.2020.720p.WEB-DL.GalaxyRG.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ideANxHtgNCkP0UEEvGUfYYl24c.jpg" group-title="LATEST MOVIES",Run (2020)
-http://dl.gemovies.ir/film/Run%202020/ORG/Run.2020.1080p.WEB-DL.x265.PSA.Gemovies.ir.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyRPVFK1kkhmPFfgPGnZqJcYp7V.jpg" group-title="LATEST MOVIES",Fatman (2020)
-http://dl10.dlfars.pw/b7/film5/Fatman.2020.720p.WEB-DL.GalaxyRG.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lOicKkOW7j8YIGmBtBzriEyEfvM.jpg" group-title="LATEST MOVIES",Jiu Jitsu (2020)
-http://dl.gemovies.ir/film/Jiu%20Jitsu%202020/ORG/Jiu.Jitsu.2020.720p.WEB-DL.GalaxyRG.Gemovies.ir.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/p4UpG72iA0KVkZjLIPjx3xxNLrN.jpg" group-title="LATEST MOVIES",Vanguard (2020)
-http://dl.gemovies.ir/film/Vanguard%202020/ORG/Vanguard.2020.720p.WEB-DL.Pahe.Gemovies.ir.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mD4p5KTXMU2vm4TOG0RWvuoBQgO.jpg" group-title="LATEST MOVIES",Jingle Jangle: A Christmas Journey (2020)
-http://dl10.dlfars.pw/b7/film4/Jingle.Jangle.A.Christmas.Journey.2020.720p.WEB-DL.YTS.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v9w9cl5P3XFhD3u3Aq1xO1EUPBS.jpg" group-title="LATEST MOVIES",Greenland (2020)
-http://dl10.dlfars.pw/b7/film4/Greenland.2020.720p.WEB-DL.YTS.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nxeCRcyL4kbK2eEOsLA0ap2p0L0.jpg" group-title="LATEST MOVIES",The New Mutants (2020)
-http://dl.gemovies.ir/film/The%20New%20Mutants%202020/ORG/The.New.Mutants.2020.INTERNAL.720p.BluRay.x265.PSA.Gemovies.ir.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oLQlUUSlI669r1bgQ7AlnjcrrvC.jpg" group-title="LATEST MOVIES",Possessor Uncut (2020)
-http://dl10.dlfars.pw/b7/film/Possessor.2020.720p.WEB-DL.YTS.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qkV2VgjfaETt25fV6TdNXkw8UZw.jpg" group-title="LATEST MOVIES",The Trial of the Chicago 7 (2020)
-http://dl.gemovies.ir/film/The%20Trial%20of%20the%20Chicago%207%202020/ORG/The.Trial.of.the.Chicago.7.2020.720p.WEB-DL.GalaxyRG.Gemovies.ir.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AaiLwHK28piiknC9B1lpaaxbQ53.jpg" group-title="LATEST MOVIES",Vampires vs. the Bronx (2020)
-http://dl.gemovies.ir/film/Vampires%20vs.%20the%20Bronx%202020/ORG/Vampires.Vs.The.Bronx.2020.720p.WEB-DL.YTS.Gemovies.ir.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/exMHPC9hISOilingT8Q1SKMJFV5.jpg" group-title="LATEST MOVIES",Come Play (2020)
-http://dl10.dlfars.pw/b7/film/Come.Play.2020.720p.HDRip.GalaxyRG.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/82Se2lSnqa05djLz5q3EJ2V9KQ2.jpg" group-title="LATEST MOVIES",The Call (2020)
-http://dl10.dlfars.pw/b6/film7/The.Call.2020.720p.WEB-DL.YTS.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s6XxJEe4ovVTMgmGmKeO87OFANU.jpg" group-title="LATEST MOVIES",His House (2020)
-http://dl10.dlfars.pw/b6/film7/His.House.2020.720p.WEB-DL.YTS.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s6V6QPKNV8NB05kG1IkACxvbI4I.jpg" group-title="LATEST MOVIES",Spell (2020)
-http://dl10.dlfars.pw/b6/film6/Spell.2020.720p.WEB-DL.YTS.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7uMCnldTTOBW0MMDP8Nsn35MzG2.jpg" group-title="LATEST MOVIES",The Craft: Legacy (2020)
-http://dl10.dlfars.pw/b6/film6/The.Craft.Legacy.2020.720p.WEB-DL.YTS.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rGgOzmIEMGQdcIzeCbGABvtwPV.jpg" group-title="LATEST MOVIES",Holidate (2020)
-http://dl10.dlfars.pw/b6/film6/Holidate.2020.720p.WEB-DL.YTS.mkv
-#
+##########VOD1 2020##################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/su6XRWgHDyg3fosiXdodCHFfZwu.jpg" group-title="LATEST MOVIES",Black Beauty (2020)
+http://dl.gemovies.ir/film/Black%20Beauty%202020/ORG/Black.Beauty.2020.720p.DSNP.WEB-DL.GalaxyRG.Gemovies.ir.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wRlgk7KLJNUd1Kgct5FimlGgviK.jpg" group-title="LATEST MOVIES",Tenet (2020)
+http://dl.gemovies.ir/film/Tenet%202020/ORG/Tenet.2020.INTERNAL.720p.WEB-DL.x265.PSA.Gemovies.ir.mkv
 #
 #
 #########################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sY6QUbSVTpTCBX1HarPtK7DwlMh.jpg" group-title="VOD1 2020",Let Him Go (2020)
+http://dl.gemovies.ir/film/Let%20Him%20Go%202020/ORG/Let.Him.Go.2020.720p.WEB-DL.x265.PSA.Gemovies.ir.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cxtwDFKYyj4EuS95zpGfap9yZiP.jpg" group-title="VOD1 2020",The Princess Switch: Switched Again (2020)
+http://s27.bitdl.ir/Movies/The.Princess.Switch.Switched.Again.2020/The.Princess.Switch.Switched.Again.2020.720p.WEBRip.x264.AAC-YIFY.Bia2HD.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mKTsBAxEwWAQwRyPey8txjwiYFS.jpg" group-title="VOD1 2020",The Nest (2020)
+http://s27.bitdl.ir/Movies/The.Nest.2020/The.Nest.2020.720p.WEBRip.x264.AAC-YIFY.Bia2HD.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1e6EJVJjRrhiU5BzK3LnzmbsMC0.jpg" group-title="VOD1 2020",Playhouse (2020)
+http://dl10.dlfars.pw/b7/film5/Playhouse.2020.720p.WEB-DL.YTS.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/DMFFdPfagw8DzH2Nx3RblhlrW1.jpg" group-title="VOD1 2020",Loco (2020)
+http://dl10.dlfars.pw/b7/film5/Loco.2020.720p.WEB-DL.YTS.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2II4PqG4784F3VM8RYKsUkKtlv9.jpg" group-title="VOD1 2020",Blindfire (2020)
+http://dl10.dlfars.pw/b7/film5/Blindfire.2020.720p.WEB-DL.GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ideANxHtgNCkP0UEEvGUfYYl24c.jpg" group-title="VOD1 2020",Run (2020)
+http://dl.gemovies.ir/film/Run%202020/ORG/Run.2020.1080p.WEB-DL.x265.PSA.Gemovies.ir.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyRPVFK1kkhmPFfgPGnZqJcYp7V.jpg" group-title="VOD1 2020",Fatman (2020)
+http://dl10.dlfars.pw/b7/film5/Fatman.2020.720p.WEB-DL.GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lOicKkOW7j8YIGmBtBzriEyEfvM.jpg" group-title="VOD1 2020",Jiu Jitsu (2020)
+http://dl.gemovies.ir/film/Jiu%20Jitsu%202020/ORG/Jiu.Jitsu.2020.720p.WEB-DL.GalaxyRG.Gemovies.ir.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/p4UpG72iA0KVkZjLIPjx3xxNLrN.jpg" group-title="VOD1 2020",Vanguard (2020)
+http://dl.gemovies.ir/film/Vanguard%202020/ORG/Vanguard.2020.720p.WEB-DL.Pahe.Gemovies.ir.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mD4p5KTXMU2vm4TOG0RWvuoBQgO.jpg" group-title="VOD1 2020",Jingle Jangle: A Christmas Journey (2020)
+http://dl10.dlfars.pw/b7/film4/Jingle.Jangle.A.Christmas.Journey.2020.720p.WEB-DL.YTS.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v9w9cl5P3XFhD3u3Aq1xO1EUPBS.jpg" group-title="VOD1 2020",Greenland (2020)
+http://dl10.dlfars.pw/b7/film4/Greenland.2020.720p.WEB-DL.YTS.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nxeCRcyL4kbK2eEOsLA0ap2p0L0.jpg" group-title="VOD1 2020",The New Mutants (2020)
+http://dl.gemovies.ir/film/The%20New%20Mutants%202020/ORG/The.New.Mutants.2020.INTERNAL.720p.BluRay.x265.PSA.Gemovies.ir.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oLQlUUSlI669r1bgQ7AlnjcrrvC.jpg" group-title="VOD1 2020",Possessor Uncut (2020)
+http://dl10.dlfars.pw/b7/film/Possessor.2020.720p.WEB-DL.YTS.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qkV2VgjfaETt25fV6TdNXkw8UZw.jpg" group-title="VOD1 2020",The Trial of the Chicago 7 (2020)
+http://dl.gemovies.ir/film/The%20Trial%20of%20the%20Chicago%207%202020/ORG/The.Trial.of.the.Chicago.7.2020.720p.WEB-DL.GalaxyRG.Gemovies.ir.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AaiLwHK28piiknC9B1lpaaxbQ53.jpg" group-title="VOD1 2020",Vampires vs. the Bronx (2020)
+http://dl.gemovies.ir/film/Vampires%20vs.%20the%20Bronx%202020/ORG/Vampires.Vs.The.Bronx.2020.720p.WEB-DL.YTS.Gemovies.ir.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/exMHPC9hISOilingT8Q1SKMJFV5.jpg" group-title="VOD1 2020",Come Play (2020)
+http://dl10.dlfars.pw/b7/film/Come.Play.2020.720p.HDRip.GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/82Se2lSnqa05djLz5q3EJ2V9KQ2.jpg" group-title="VOD1 2020",The Call (2020)
+http://dl10.dlfars.pw/b6/film7/The.Call.2020.720p.WEB-DL.YTS.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s6XxJEe4ovVTMgmGmKeO87OFANU.jpg" group-title="VOD1 2020",His House (2020)
+http://dl10.dlfars.pw/b6/film7/His.House.2020.720p.WEB-DL.YTS.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s6V6QPKNV8NB05kG1IkACxvbI4I.jpg" group-title="VOD1 2020",Spell (2020)
+http://dl10.dlfars.pw/b6/film6/Spell.2020.720p.WEB-DL.YTS.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7uMCnldTTOBW0MMDP8Nsn35MzG2.jpg" group-title="VOD1 2020",The Craft: Legacy (2020)
+http://dl10.dlfars.pw/b6/film6/The.Craft.Legacy.2020.720p.WEB-DL.YTS.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rGgOzmIEMGQdcIzeCbGABvtwPV.jpg" group-title="VOD1 2020",Holidate (2020)
+http://dl10.dlfars.pw/b6/film6/Holidate.2020.720p.WEB-DL.YTS.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/a0j18XNVhP4RcW3wXwsqT0kVoQm.jpg" group-title="VOD2 2010-2019",Hunter Killer (2018)
 http://dl.dlfars.pw/b2/action/Hunter.Killer.2018.720p.HDRip.MkvCage.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gtqHTEAmI6EB88odeMDXZbTGigk.jpg" group-title="VOD1 2020",Walkaway Joe (2020)
