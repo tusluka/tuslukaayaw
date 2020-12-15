@@ -7,15 +7,71 @@
 #EXTINF:-1 tvg-logo="" group-title="VOD5 RELIGIOUS MOVIES",
 #EXTINF:-1 tvg-logo="" group-title="VOD6 KIDS & ANIMATION",
 ##########VOD1 2020##################################
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/su6XRWgHDyg3fosiXdodCHFfZwu.jpg" group-title="LATEST MOVIES",Black Beauty (2020)
-http://dl.gemovies.ir/film/Black%20Beauty%202020/ORG/Black.Beauty.2020.720p.DSNP.WEB-DL.GalaxyRG.Gemovies.ir.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wRlgk7KLJNUd1Kgct5FimlGgviK.jpg" group-title="LATEST MOVIES",Tenet (2020)
-http://dl10.dlfars.pw/Z5/movie5/Tenet.2020.720P.Bluray.Duble.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aKWe6JLwdQRjZFTwSLGWy2IUbvi.jpg" group-title="VOD6 KIDS & ANIMATION",Safety (2020)
+http://fm4.dlserver.pw/Movie/2020/Safety/Safety.2020.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qpEV7Y8RQH30LsOx5PvKxdtMRgI.jpg" group-title="VOD2 2010-2019",Secrets at the Lake (2019)
+http://fm4.dlserver.pw/Movie/2020/Secrets%20At%20The%20Lake/Secrets.At.The.Lake.2019.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fYHvJXLCghMoI2NfQasuPIsYqtg.jpg" group-title="VOD7 SPECIALS",Silent Night: A Song For the World (2020)
+http://fm4.dlserver.pw/Movie/2020/Silent%20Night%20A%20Song%20For%20The%20World/Silent.Night.A.Song.For.The.World.2020.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eAUzmhP54bE1vPXaY7FbuZREJlR.jpg" group-title="LATEST MOVIES",Sputnik (2020)
+http://fm4.dlserver.pw/Movie/2020/Sputnik/Sputnik.2020.720p.BluRay.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6DuONLcivGDcl4xBw58YJJna4q8.jpg" group-title="LATEST MOVIES",What Lies Below (2020)
+http://fm4.dlserver.pw/Movie/2020/What%20Lies%20Below/What.Lies.Below.2020.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qN3AaE5WDWUVSeISORmo2iItoNP.jpg" group-title="LATEST MOVIES",Wander Darkly (2020)
+http://fm4.dlserver.pw/Movie/2020/Wander%20Darkly/Wander.Darkly.2020.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bEeHx1wLrG55ZQCe4Yt3seQqYci.jpg" group-title="LATEST MOVIES",The Prom (2020)
+http://fm4.dlserver.pw/Movie/2020/The%20Prom/The.Prom.2020.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7erP4VLI1AhvTaG7b8rndSuXz3w.jpg" group-title="VOD2 2010-2019",The Deeper You Dig (2019)
+http://fm4.dlserver.pw/Movie/2020/The%20Deeper%20You%20Dig/The.Deeper.You.Dig.2019.720p.BluRay.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/y63Sa7F2YFQPDSNQpS45p1iwTJ1.jpg" group-title="LATEST MOVIES",The Dark and the Wicked (2020)
+http://fm4.dlserver.pw/Movie/2020/The%20Dark%20And%20The%20Wicked/The.Dark.And.The.Wicked.2020.720p.BluRay.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9H1xxQoT78vqA0LZTE0y1UhFCSz.jpg" group-title="LATEST MOVIES",Let Them All Talk (2020)
+http://fm4.dlserver.pw/Movie/2020/Let%20Them%20All%20Talk/Let.Them.All.Talk.2020.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aLv0wZoFQvEXupDphPn1TjNfq9M.jpg" group-title="LATEST MOVIES",Lost at Christmas (2020)
+http://fm4.dlserver.pw/Movie/2020/Lost%20At%20Christmas/Lost.At.Christmas.2020.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8P1H3tmf7o322agBGsdVFRP84aG.jpg" group-title="LATEST MOVIES",Love Weddings and Other Disasters (2020)
+http://fm4.dlserver.pw/Movie/2020/Love%20Weddings%20Other%20Disasters/Love.Weddings.Other.Disasters.2020.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vFpBftJimBOhsFy18jv3KSN0h8c.jpg" group-title="VOD1 2020",Luxor (2020)
+http://fm4.dlserver.pw/Movie/2020/Luxor/Luxor.2020.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1VF9IcI4Vyrd2oYrVp0oNuPeE70.jpg" group-title="LATEST MOVIES",Mank (2020)
+http://fm4.dlserver.pw/Movie/2020/Mank/Mank.2020.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jGc9CukX7IojOcDYfEgZEM1ez5D.jpg" group-title="VOD7 SPECIALS",Mariah Carey's Magical Christmas Special (2020)
+http://fm4.dlserver.pw/Movie/2020/Mariah%20Careys%20Magical/Mariah.Careys.Magical.Christmas.Special.2020.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6hd2NqGfc2NUm9WZoOygKASuYnl.jpg" group-title="LATEST MOVIES",Monster Hunter (2020)
+http://fm4.dlserver.pw/Movie/2020/Monster%20Hunters/Monster.Hunters.2020.1080p.BluRay.x264.AAC5.1-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oEynHPJUAZwexTtaFv2quxE22Vd.jpg" group-title="LATEST MOVIES",Monsters of Man (2020)
+http://fm4.dlserver.pw/Movie/2020/Monsters%20Of%20Man/Monsters.Of.Man.2020.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/29sq0JjJslhPKhWjfMJVJ9fSmVw.jpg" group-title="VOD2 2010-2019",Invasion Planet Earth (2019)
+http://fm4.dlserver.pw/Movie/2020/Invasion%20Planet%20Earth/Invasion.Planet.Earth.2019.720p.BluRay.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLjLuIMWbdFXmQLoTCaDCSvO4F2.jpg" group-title="LATEST MOVIES",Infidel (2020)
+http://fm4.dlserver.pw/Movie/2020/Infidel/Infidel.2019.720p.BluRay.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uvtpCyx68zNUKdRFuWzxXhD1PQt.jpg" group-title="LATEST MOVIES",I'm Your Woman (2020)
+http://fm4.dlserver.pw/Movie/2020/Im%20Your%20Woman/Im.Your.Woman.2020.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yXlf0iwxdVmIZgRSZMIMsT1ekuE.jpg" group-title="LATEST MOVIES",Godmothered (2020)
+http://fm4.dlserver.pw/Movie/2020/Godmothered/Godmothered.2020.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bMebEJlagfBOSvgMQyVMngKhypw.jpg" group-title="LATEST MOVIES",Freaky (2020)
+http://fm4.dlserver.pw/Movie/2020/Freaky/Freaky.2020.720p.WEB-HD.x264.PaHe.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yBopdmqIyzguyLqd9FBvnG8q3e0.jpg" group-title="LATEST MOVIES",Baby in a Manger (2019)
+http://fm4.dlserver.pw/Movie/2020/Baby%20In%20A%20Manger/Baby.In.A.Manger.2019.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o4oDQ9XUG7uQefdEVIOfT6yi86y.jpg" group-title="LATEST MOVIES",Archenemy (2020)
+http://fm4.dlserver.pw/Movie/2020/Archenemy/Archenemy.2020.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/khOPdXkK75KLSfpZCXrMtupNj1N.jpg" group-title="LATEST MOVIES",Ammonite (2020)
+http://fm4.dlserver.pw/Movie/2020/Ammonite/Ammonite.2020.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/41Goqxf3AnElzsEQnR9X8syZYFC.jpg" group-title="LATEST MOVIES",Songbird (2020)
+http://fm4.dlserver.pw/Movie/2020/Songbird/Songbird.2020.1080p.WEBRip.x264.AAC5.1-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1XixAUZcBhdqxqkDAimbZQcLnHE.jpg" group-title="LATEST MOVIES",Savage (2020)
+http://fm4.dlserver.pw/Movie/2020/Savage/Savage.2019.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s2PPk1w6p6RhbPrZPizZ90ISdWh.jpg" group-title="LATEST MOVIES",Honest Thief (2020)
+http://fm4.dlserver.pw/Movie/2020/Honest%20Thief/Honest.Thief.2020.720p.BluRay.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/su6XRWgHDyg3fosiXdodCHFfZwu.jpg" group-title="VOD1 2020",Black Beauty (2020)
+http://fm4.dlserver.pw/Movie/2020/Black%20Beauty/Black.Beauty.2020.720p.WEBRip.x264.AAC-YTS.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wRlgk7KLJNUd1Kgct5FimlGgviK.jpg" group-title="VOD1 2020",Tenet (2020)
+http://fm4.dlserver.pw/Movie/2020/Tenet/Tenet.2020.IMAX.720p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9U80sW0NNOenmfxWWlPoo8TokJ5.jpg" group-title="VOD2 2010-2019",Yummy (2019)
 http://s27.bitdl.ir/Movies/Yummy.2019/Yummy.2019.720p.BluRay.x264.AAC-YIFY.Bia2HD.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v1wqn3xemna3CjbWkHr3CwEZUZt.jpg" group-title="VOD1 2020",The Last Christmas Party (2020)
 http://s27.bitdl.ir/Movies/The.Last.Christmas.Party.2020/The.Last.Christmas.Party.2020.720p.WEBRip.x264.AAC-YIFY.Bia2HD.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tcKsgTnrjuZLWAJwn8uBZHy5YWy.jpg" group-title="LATEST MOVIES",The Fresh Prince of Bel-Air Reunion Special (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tcKsgTnrjuZLWAJwn8uBZHy5YWy.jpg" group-title="VOD1 2020",The Fresh Prince of Bel-Air Reunion Special (2020)
 http://s27.bitdl.ir/Movies/The.Fresh.Prince.Of.Bel-Air.Reunion.2020/The.Fresh.Prince.Of.Bel-Air.Reunion.2020.720p.BluRay.x264.AAC-YIFY.Bia2HD.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/A9aw7NKg1K7gsA4Vhvn7W0lrRZf.jpg" group-title="VOD1 2020",The Dark Divide (2020)
 http://s27.bitdl.ir/Movies/The.Dark.And.The.Wicked.2020/The.Dark.And.The.Wicked.2020.720p.WEBRip.x264.AAC-YIFY.Bia2HD.mp4
@@ -23,7 +79,7 @@ http://s27.bitdl.ir/Movies/The.Dark.And.The.Wicked.2020/The.Dark.And.The.Wicked.
 http://s27.bitdl.ir/Movies/The.Dark.And.The.Wicked.2020/The.Dark.And.The.Wicked.2020.720p.WEBRip.x264.AAC-YIFY.Bia2HD.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nvoYkC0NADmjtEqIExepPAmjC34.jpg" group-title="VOD1 2020",Solitary (2020)
 http://s27.bitdl.ir/Movies/Solitary.2020/Solitary.2020.720p.BluRay.x264.AAC-YIFY.Bia2HD.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uxgQ19epjQD3LGDoCacoJOPemBP.jpg" group-title="LATEST MOVIES",Rebecca (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uxgQ19epjQD3LGDoCacoJOPemBP.jpg" group-title="VOD1 2020",Rebecca (2020)
 http://s27.bitdl.ir/Movies/Rebecca.2020/Rebecca.2020.REPACK.720p.WEBRip.800MB.x264-GalaxyRG.Bia2HD.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rRtk8exztIYNSHE5SiHCT3zqvjY.jpg" group-title="VOD1 2020",LX 2048 (2020)
 http://s27.bitdl.ir/Movies/LX.2048.2020/LX.2048.2020.720p.WEBRip.x264.AAC-YIFY.Bia2HD.mp4
@@ -43,7 +99,7 @@ http://s27.bitdl.ir/Movies/Always.And.Forever.2020/Always.And.Forever.2020.720p.
 http://s27.bitdl.ir/Movies/Alien.Xmas.2020/Alien.Xmas.2020.720p.WEBRip.x264.AAC-YIFY.Bia2HD.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7Jd8HP4RcfZpUr9DjAux5CwUFxJ.jpg" group-title="VOD1 2020",Lassie Come Home (2020)
 http://s27.bitdl.ir/Movies/Lassie.Come.Home.2020/Lassie.Come.Home.2020.720p.BluRay.x264.AAC-YIFY.Bia2HD.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/otsxIUp0YPtOTdM1KM5SycFZN4o.jpg" group-title="LATEST MOVIES",Alone (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/otsxIUp0YPtOTdM1KM5SycFZN4o.jpg" group-title="VOD1 2020",Alone (2020)
 http://dl10.dlfars.pw/Z5/movie5/Alone.2020.720P.Bluray.Duble.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kh41zicqM0EeE08FvN49MXlx7xI.jpg" group-title="VOD1 2020",First Lady (2020)
 http://dl10.dlfars.pw/b7/film7/First.Lady.2020.720p.WEB-DL.YTS.mkv
@@ -51,7 +107,7 @@ http://dl10.dlfars.pw/b7/film7/First.Lady.2020.720p.WEB-DL.YTS.mkv
 http://s27.bitdl.ir/Movies/Borat.Subsequent.Moviefilm.2020/Borat.Subsequent.Moviefilm.2020.720p.WEBRip.x264.AAC-YIFY.Bia2HD.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2pTkR5a8qtPYrSpo4Aumrrt7mq5.jpg" group-title="VOD2 2010-2019",The Vigil (2020)
 http://dl10.dlfars.pw/b7/film6/The.Vigil.2019.720p.WEB-DL.YTS.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ijwUja8ignGUEQKvdAg9TpqO8ei.jpg" group-title="LATEST MOVIES",Break Even (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ijwUja8ignGUEQKvdAg9TpqO8ei.jpg" group-title="VOD1 2020",Break Even (2020)
 http://dl10.dlfars.pw/b7/film7/Break.Even.2020.720p.WEB-DL.GalaxyRG.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sY6QUbSVTpTCBX1HarPtK7DwlMh.jpg" group-title="VOD1 2020",Let Him Go (2020)
 http://dl.gemovies.ir/film/Let%20Him%20Go%202020/ORG/Let.Him.Go.2020.720p.WEB-DL.x265.PSA.Gemovies.ir.mkv
@@ -66,11 +122,11 @@ http://dl10.dlfars.pw/b7/film5/Loco.2020.720p.WEB-DL.YTS.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2II4PqG4784F3VM8RYKsUkKtlv9.jpg" group-title="VOD1 2020",Blindfire (2020)
 http://dl10.dlfars.pw/b7/film5/Blindfire.2020.720p.WEB-DL.GalaxyRG.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ideANxHtgNCkP0UEEvGUfYYl24c.jpg" group-title="VOD1 2020",Run (2020)
-http://dl.gemovies.ir/film/Run%202020/ORG/Run.2020.1080p.WEB-DL.x265.PSA.Gemovies.ir.mkv
+http://fm4.dlserver.pw/Movie/2020/Run/Run.2020.720p.WEBRip.x264.AAC-YTS.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyRPVFK1kkhmPFfgPGnZqJcYp7V.jpg" group-title="VOD1 2020",Fatman (2020)
 http://dl10.dlfars.pw/b7/film5/Fatman.2020.720p.WEB-DL.GalaxyRG.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lOicKkOW7j8YIGmBtBzriEyEfvM.jpg" group-title="VOD1 2020",Jiu Jitsu (2020)
-http://dl.gemovies.ir/film/Jiu%20Jitsu%202020/ORG/Jiu.Jitsu.2020.720p.WEB-DL.GalaxyRG.Gemovies.ir.mkv
+http://fm4.dlserver.pw/Movie/2020/Jiu%20Jitsu/Jiu.Jitsu.2020.720p.BluRay.x264.AAC-YTS.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/p4UpG72iA0KVkZjLIPjx3xxNLrN.jpg" group-title="VOD1 2020",Vanguard (2020)
 http://dl10.dlfars.pw/b7/film4/Vanguard.2020.720p.WEB-DL.YTS.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mD4p5KTXMU2vm4TOG0RWvuoBQgO.jpg" group-title="VOD1 2020",Jingle Jangle: A Christmas Journey (2020)
@@ -78,7 +134,7 @@ http://dl10.dlfars.pw/b7/film4/Jingle.Jangle.A.Christmas.Journey.2020.720p.WEB-D
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v9w9cl5P3XFhD3u3Aq1xO1EUPBS.jpg" group-title="VOD1 2020",Greenland (2020)
 http://dl.dlb3d.top/E2/M/Greenland.2020/Greenland.2020.720p.10bit.BluRay.6CH.x265.Farsi.Dubbed.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nxeCRcyL4kbK2eEOsLA0ap2p0L0.jpg" group-title="VOD1 2020",The New Mutants (2020)
-http://dl.gemovies.ir/film/The%20New%20Mutants%202020/ORG/The.New.Mutants.2020.INTERNAL.720p.BluRay.x265.PSA.Gemovies.ir.mkv
+http://fm4.dlserver.pw/Movie/2020/The%20New%20Mutants/The.New.Mutants.2020.720p.BluRay.x264.AAC-YTS.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oLQlUUSlI669r1bgQ7AlnjcrrvC.jpg" group-title="VOD1 2020",Possessor Uncut (2020)
 http://dl10.dlfars.pw/b7/film/Possessor.2020.720p.WEB-DL.YTS.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qkV2VgjfaETt25fV6TdNXkw8UZw.jpg" group-title="VOD1 2020",The Trial of the Chicago 7 (2020)
@@ -108,7 +164,7 @@ http://dl.gemovies.ir/film/We%20Summon%20the%20Darkness%202019/ORG/We.Summon.the
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1bbLa1eWumUgUo7aSNvdpr2Smbu.jpg" group-title="VOD1 2020",Think Like a Dog (2020)
 http://dl.gemovies.ir/film/Think%20Like%20a%20Dog%202020/ORG/Think.Like.a.Dog.2020.720p.BluRay.GalaxyRG.Gemovies.ir.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5MSDwUcqnGodFTvtlLiLKK0XKS.jpg" group-title="VOD1 2020",The Secret Garden (2020)
-http://dl.gemovies.ir/film/The%20Secret%20Garden%202020/ORG/The.Secret.Garden.2020.720p.BluRay.YTS.Gemovies.ir.mkv
+http://fm4.dlserver.pw/Movie/2020/The%20Secret%20Garden/The.Secret.Garden.2020.720p.BluRay.x264.AAC-YTS.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l7j5HpvPAyGsnN9pOREXL5a8WgP.jpg" group-title="VOD1 2020",The Lost Husband (2020)
 http://dl.gemovies.ir/film/The%20Lost%20Husband/ORG/The.Lost.Husband.2020.720p.WEB-DL.Gemovies.ir.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cMVKGOu2PhdToAhMIdX55bBCQNu.jpg" group-title="VOD2 2010-2019",The Lighthouse (2019)
@@ -120,7 +176,7 @@ http://dl.gemovies.ir/film/Scare%20Package%202019/ORG/Scare.Package.2019.720p.WE
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tW6d5WUQjw9kK8Va31QD2zShTyg.jpg" group-title="VOD2 2010-2019",Richard Jewell (2019)
 http://dl.gemovies.ir/film/Richard%20Jewell%202019/ORG/Richard.Jewell.2019.720p.BluRay.x265.Gemovies.ir.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dUuEp6uGbxFjXRiXxBBi3TCcgZj.jpg" group-title="VOD1 2020",Relic (2020)
-http://dl.gemovies.ir/film/Relic%202020/ORG/Relic.2020.1080p.WEB-DL.x265.RMT.Gemovies.ir.mkv
+http://fm4.dlserver.pw/Movie/2020/Relic/Relic.2020.720p.BluRay.x264.AAC-YTS.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8qibpxhEf3VetPJqJbyTirYoJ1A.jpg" group-title="VOD1 2020",Penance Lane (2020)
 http://dl.gemovies.ir/film/Penance%20Lane%202020/ORG/Penance.Lane.2020.720p.WEBRip.Gemovies.ir.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qqzzpOLwMKk4FiGutOeH67dryE8.jpg" group-title="VOD1 2020",Money Plane (2020)
@@ -134,7 +190,7 @@ http://dl.gemovies.ir/film/Little%20Women%202019/ORG/Little.Women.2019.720p.Sub.
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/41qVwAz4ZCc8g7YQETQih8fpB8q.jpg" group-title="VOD1 2020",Looks That Kill (2020)
 http://dl.gemovies.ir/film/Looks%20That%20Kill%202020/ORG/Looks.That.Kill.2020.720p.WEB-DL.GalaxyRG.Gemovies.ir.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lG0TF0wj1n9p9CPy5xlIUIkF56a.jpg" group-title="VOD6 KIDS & ANIMATION",Over the Moon (2020)
-http://dl.gemovies.ir/film/Over%20the%20Moon%202020/ORG/Over.the.Moon.2020.720p.WEB-DL.GalaxyRG.Gemovies.ir.mkv
+http://fm4.dlserver.pw/Movie/2020/Over%20The%20Moon/Over.The.Moon.2020.720p.WEBRip.x264.AAC-YTS.mp4
 #EXTINF:-1 tvg-logo="http://s8.bitdl.ir/Movie/Imperium.2016/Imperium.2016.720p.ShAaNiG_Bia2HD.mkv" group-title="VOD2 2010-2019",Imperium (2016)
 https://image.tmdb.org/t/p/original/7Ux4vzgFY6dPx4QkqjejgokoG02.jpg
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/34T8kBh9NghnJuLf3HjykT5noAL.jpg" group-title="VOD2 2010-2019",Genius (2016)
